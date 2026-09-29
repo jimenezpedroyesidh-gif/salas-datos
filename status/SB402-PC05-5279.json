@@ -1,11 +1,11 @@
 {
     "hostname":  "SB402-PC05-5279",
-    "ultima_vez":  "2026-09-29 16:40:55",
+    "ultima_vez":  "2026-09-29 17:00:02",
     "arranque":  "2026-09-29 10:17:54",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "cmd",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,9 +15,8 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "splwow64",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ]
