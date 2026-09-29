@@ -1,0 +1,24 @@
+{
+    "hostname":  "SB402-PC05-5279",
+    "ultima_vez":  "2026-09-29 16:40:55",
+    "arranque":  "2026-09-29 10:17:54",
+    "conexion":  "ethernet",
+    "procesos":  [
+                     "AdobeCollabSync",
+                     "cmd",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "Dell.UUE.User.SubAgent",
+                     "DellOptimizer.Systray",
+                     "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "splwow64",
+                     "StoreDesktopExtension",
+                     "unsecapp",
+                     "WidgetBoard"
+                 ]
+}
