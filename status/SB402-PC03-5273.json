@@ -1,0 +1,20 @@
+{
+    "hostname":  "SB402-PC03-5273",
+    "ultima_vez":  "2026-09-29 16:29:23",
+    "arranque":  "2026-09-26 06:26:00",
+    "conexion":  "ethernet",
+    "procesos":  [
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
+                     "IntelGraphicsSoftware",
+                     "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp",
+                     "WidgetBoard"
+                 ]
+}
