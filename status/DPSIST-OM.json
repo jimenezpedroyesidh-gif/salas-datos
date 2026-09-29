@@ -1,7 +1,7 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-09-29 15:47:41",
-    "arranque":  "2026-09-29 15:47:00",
+    "ultima_vez":  "2026-09-29 16:11:53",
+    "arranque":  "2026-09-29 16:11:12",
     "conexion":  "ethernet",
     "procesos":  [
                      "DefenderSessionHelper",
