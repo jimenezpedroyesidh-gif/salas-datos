@@ -1,0 +1,23 @@
+{
+    "hostname":  "SB402-PC06-5278",
+    "ultima_vez":  "2026-09-29 16:42:43",
+    "arranque":  "2026-09-28 16:06:28",
+    "conexion":  "ethernet",
+    "procesos":  [
+                     "AdobeCollabSync",
+                     "cmd",
+                     "consent",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
+                     "ipf_helper",
+                     "OpenConsole",
+                     "powershell",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp",
+                     "WindowsTerminal"
+                 ]
+}
