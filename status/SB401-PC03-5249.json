@@ -1,0 +1,22 @@
+{
+    "hostname":  "SB401-PC03-5249",
+    "ultima_vez":  "2026-09-30 17:42:58",
+    "arranque":  "2026-09-30 16:22:37",
+    "conexion":  "ethernet",
+    "procesos":  [
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
+                     "ipf_helper",
+                     "jusched",
+                     "MicrosoftStartFeedProvider",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WidgetBoard"
+                 ],
+    "apagado":  false
+}
