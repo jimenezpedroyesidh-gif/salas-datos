@@ -1,9 +1,13 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-09-29 16:11:53",
+    "ultima_vez":  "2026-09-29 19:22:41",
     "arranque":  "2026-09-29 16:11:12",
     "conexion":  "ethernet",
     "procesos":  [
+                     "brave",
+                     "chrome",
+                     "cmd",
+                     "CompPkgSrv",
                      "DefenderSessionHelper",
                      "E_YATIURE",
                      "EEventManager",
@@ -13,6 +17,7 @@
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "StoreDesktopExtension"
+                     "powershell",
+                     "SystemSettingsBroker"
                  ]
 }
