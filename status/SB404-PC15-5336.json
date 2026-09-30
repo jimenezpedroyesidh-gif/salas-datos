@@ -1,0 +1,24 @@
+{
+    "hostname":  "SB404-PC15-5336",
+    "ultima_vez":  "2026-09-30 14:49:27",
+    "arranque":  "2026-09-30 14:47:18",
+    "conexion":  "ethernet",
+    "procesos":  [
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "ipf_helper",
+                     "jusched",
+                     "MicrosoftStartFeedProvider",
+                     "MSOSYNC",
+                     "RtkAudUService64",
+                     "rvlkl",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
+                 ],
+    "apagado":  false
+}
