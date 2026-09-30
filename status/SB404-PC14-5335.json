@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-09-30 14:46:58",
+    "ultima_vez":  "2026-09-30 14:48:35",
     "arranque":  "2026-09-30 10:10:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,6 +11,7 @@
                      "IDBWM",
                      "ipf_helper",
                      "jusched",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
