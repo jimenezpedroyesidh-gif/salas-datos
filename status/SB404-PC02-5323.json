@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-09-29 21:04:04",
+    "ultima_vez":  "2026-09-29 21:24:03",
     "arranque":  "2026-09-29 19:45:12",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,7 +19,6 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "MSOSYNC",
                      "ollama",
                      "ollama app",
                      "RtkAudUService64",
