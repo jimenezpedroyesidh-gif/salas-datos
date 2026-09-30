@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-09-30 14:33:25",
+    "ultima_vez":  "2026-09-30 14:53:03",
     "arranque":  "2026-09-30 10:10:42",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,8 +16,8 @@
                      "MoNotificationUx",
                      "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
