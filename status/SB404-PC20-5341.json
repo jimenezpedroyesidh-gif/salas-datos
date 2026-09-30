@@ -1,15 +1,17 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-09-30 14:54:46",
+    "ultima_vez":  "2026-09-30 15:14:02",
     "arranque":  "2026-09-25 17:18:22",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "RtkAudUService64",
                      "ShellHost",
