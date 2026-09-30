@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-09-30 14:10:03",
+    "ultima_vez":  "2026-09-30 14:26:55",
     "arranque":  "2026-09-29 14:40:17",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,7 +17,6 @@
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "msedge",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
