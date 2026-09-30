@@ -1,10 +1,10 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-09-29 20:21:35",
+    "ultima_vez":  "2026-09-29 20:21:39",
     "arranque":  "2026-09-29 16:11:12",
     "conexion":  "ethernet",
     "procesos":  [
-                     "Emc.Captiva.WebToolkitHost"
+
                  ],
     "apagado":  true
 }
