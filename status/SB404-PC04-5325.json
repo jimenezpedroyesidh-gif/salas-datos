@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-09-29 21:12:02",
+    "ultima_vez":  "2026-09-29 21:32:02",
     "arranque":  "2026-09-29 18:24:53",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,6 +21,7 @@
                      "rundll32",
                      "SDXHelper",
                      "ShellHost",
+                     "SnippingTool",
                      "soffice",
                      "soffice.bin",
                      "unsecapp",
