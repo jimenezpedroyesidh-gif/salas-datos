@@ -1,9 +1,11 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-09-30 14:19:02",
+    "ultima_vez":  "2026-09-30 14:39:51",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
+                     "CompPkgSrv",
                      "DefenderSessionHelper",
                      "E_YATIURE",
                      "EEventManager",
