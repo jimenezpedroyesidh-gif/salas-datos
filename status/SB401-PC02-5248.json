@@ -1,0 +1,24 @@
+{
+    "hostname":  "SB401-PC02-5248",
+    "ultima_vez":  "2026-09-30 17:26:28",
+    "arranque":  "2026-09-30 16:22:37",
+    "conexion":  "ethernet",
+    "procesos":  [
+                     "AdobeARM",
+                     "AdobeCollabSync",
+                     "AppActions",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "ipf_helper",
+                     "jucheck",
+                     "jusched",
+                     "MoNotificationUx",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WhatsApp.Root"
+                 ],
+    "apagado":  false
+}
