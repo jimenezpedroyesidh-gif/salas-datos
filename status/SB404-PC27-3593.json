@@ -1,15 +1,14 @@
 {
     "hostname":  "SB404-PC27-3593",
-    "ultima_vez":  "2026-10-01 11:40:05",
+    "ultima_vez":  "2026-10-01 14:15:11",
     "arranque":  "2026-09-28 14:43:25",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
-                     "CompPkgSrv",
                      "DefenderSessionHelper",
                      "igfxEM",
                      "igfxHK",
-                     "igfxTray"
+                     "igfxTray",
+                     "StoreDesktopExtension"
                  ],
     "apagado":  false
 }
