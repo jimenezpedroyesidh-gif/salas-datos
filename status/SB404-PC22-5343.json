@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-01 15:08:05",
+    "ultima_vez":  "2026-10-01 15:16:03",
     "arranque":  "2026-10-01 10:06:37",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,8 +11,8 @@
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
-                     "onenotecapture",
                      "ONENOTEM",
                      "RtkAudUService64",
                      "ShellHost",
