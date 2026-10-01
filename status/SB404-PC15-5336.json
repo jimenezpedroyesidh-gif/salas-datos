@@ -1,11 +1,23 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-01 16:01:18",
+    "ultima_vez":  "2026-10-01 16:02:15",
     "arranque":  "2026-10-01 16:00:31",
     "conexion":  "ethernet",
     "procesos":  [
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "ipf_helper",
+                     "jusched",
+                     "MicrosoftStartFeedProvider",
+                     "OneDrive",
                      "RtkAudUService64",
-                     "unsecapp"
+                     "rundll32",
+                     "rvlkl",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
