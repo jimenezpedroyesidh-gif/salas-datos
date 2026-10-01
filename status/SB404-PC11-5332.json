@@ -1,12 +1,10 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-01 09:58:03",
+    "ultima_vez":  "2026-10-01 10:10:44",
     "arranque":  "2026-09-30 10:10:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,17 +14,13 @@
                      "IGCCTray",
                      "ipf_helper",
                      "jusched",
-                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "MSOSYNC",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "XboxPcAppFT"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
