@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-01 16:12:04",
+    "ultima_vez":  "2026-10-01 16:32:03",
     "arranque":  "2026-10-01 15:54:14",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,6 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "eclipse",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
