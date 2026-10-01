@@ -1,10 +1,12 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-01 15:41:02",
+    "ultima_vez":  "2026-10-01 16:01:05",
     "arranque":  "2026-10-01 15:37:06",
     "conexion":  "ethernet",
     "procesos":  [
+                     "1a_dbeaver-ce-26.0.0-windows-x86_64",
                      "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -13,8 +15,10 @@
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "netbeans64",
+                     "msedge",
+                     "python-3.13.7-amd64",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
