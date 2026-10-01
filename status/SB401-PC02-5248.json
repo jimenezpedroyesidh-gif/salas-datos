@@ -1,12 +1,12 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-01 10:06:02",
+    "ultima_vez":  "2026-10-01 10:26:02",
     "arranque":  "2026-10-01 08:12:40",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -15,6 +15,7 @@
                      "jucheck",
                      "jusched",
                      "MoNotificationUx",
+                     "mscopilot_proxy",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
