@@ -1,17 +1,19 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-01 08:24:05",
+    "ultima_vez":  "2026-10-01 08:44:05",
     "arranque":  "2026-09-17 06:27:47",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
                      "chrome",
+                     "CompPkgSrv",
                      "GameInputRedistService",
                      "GameInputSvc",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
+                     "jucheck",
                      "jusched",
-                     "MSOSYNC",
                      "promecefpluginhost",
                      "wps",
                      "wpscloudsvr"
