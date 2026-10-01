@@ -1,19 +1,17 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-09-30 15:01:27",
-    "arranque":  "2026-09-29 15:20:43",
+    "ultima_vez":  "2026-10-01 15:37:59",
+    "arranque":  "2026-10-01 15:37:06",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "CrossDeviceResume",
-                     "CrossDeviceService",
                      "DefenderSessionHelper",
-                     "Dell.TechHub.Instrumentation.UserProcess",
-                     "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
-                     "MoNotificationUx",
                      "RtkAudUService64",
+                     "rundll32",
+                     "SearchProtocolHost",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
