@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-01 16:34:21",
+    "ultima_vez":  "2026-10-01 16:35:02",
     "arranque":  "2026-10-01 16:33:35",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,6 +8,7 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
