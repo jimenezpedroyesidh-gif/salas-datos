@@ -1,7 +1,7 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-01 11:09:25",
-    "arranque":  "2026-10-01 11:08:36",
+    "ultima_vez":  "2026-10-01 11:13:46",
+    "arranque":  "2026-10-01 11:12:58",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
