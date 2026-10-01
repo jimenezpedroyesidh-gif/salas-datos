@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-01 15:36:02",
+    "ultima_vez":  "2026-10-01 15:56:03",
     "arranque":  "2026-10-01 10:06:37",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,6 +9,7 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "eclipse",
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
