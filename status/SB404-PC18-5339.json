@@ -1,16 +1,25 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-01 16:18:54",
+    "ultima_vez":  "2026-10-01 16:27:36",
     "arranque":  "2026-10-01 16:18:00",
     "conexion":  "ethernet",
     "procesos":  [
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "eclipse-inst",
+                     "firefox",
+                     "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
+                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
