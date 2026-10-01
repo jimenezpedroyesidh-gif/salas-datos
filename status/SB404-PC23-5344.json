@@ -1,16 +1,15 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-01 15:38:11",
+    "ultima_vez":  "2026-10-01 15:58:15",
     "arranque":  "2026-10-01 05:34:17",
     "conexion":  "ethernet",
     "procesos":  [
-                     "crashhelper",
+                     "AppActions",
+                     "AppVShNotify",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "eclipse-inst",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
@@ -19,7 +18,6 @@
                      "RtkAudUService64",
                      "rundll32",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
