@@ -1,12 +1,13 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-01 10:18:02",
+    "ultima_vez":  "2026-10-01 10:38:02",
     "arranque":  "2026-09-30 10:10:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "Acrobat",
                      "AcroCEF",
                      "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DataExchangeHost",
@@ -23,6 +24,7 @@
                      "msedge",
                      "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
