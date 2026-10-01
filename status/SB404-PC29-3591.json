@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-01 08:22:16",
+    "ultima_vez":  "2026-10-01 08:24:05",
     "arranque":  "2026-09-17 06:27:47",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,11 @@
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "jusched"
+                     "jusched",
+                     "MSOSYNC",
+                     "promecefpluginhost",
+                     "wps",
+                     "wpscloudsvr"
                  ],
     "apagado":  false
 }
