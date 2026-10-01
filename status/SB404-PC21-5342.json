@@ -1,12 +1,9 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-01 10:14:26",
+    "ultima_vez":  "2026-10-01 10:15:02",
     "arranque":  "2026-10-01 10:06:01",
     "conexion":  "ethernet",
     "procesos":  [
-                     "Acrobat",
-                     "AcroCEF",
-                     "ActionsServer",
                      "AdobeCollabSync",
                      "chrome",
                      "CrossDeviceResume",
@@ -17,7 +14,6 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "opera_autoupdate",
                      "RtkAudUService64",
                      "ShellHost",
                      "SoftLandingTask",
