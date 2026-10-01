@@ -1,15 +1,16 @@
 {
     "hostname":  "SB404-PC27-3593",
-    "ultima_vez":  "2026-10-01 14:20:04",
+    "ultima_vez":  "2026-10-01 14:40:04",
     "arranque":  "2026-09-28 14:43:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "DefenderSessionHelper",
+                     "eclipse",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "MSOSYNC",
-                     "netbeans64"
+                     "msedge",
+                     "SearchProtocolHost"
                  ],
     "apagado":  false
 }
