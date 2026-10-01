@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-01 11:28:02",
+    "ultima_vez":  "2026-10-01 14:10:45",
     "arranque":  "2026-09-29 19:38:52",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,11 +14,15 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "opushutil",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
