@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-02 15:22:06",
+    "ultima_vez":  "2026-10-02 15:27:29",
     "arranque":  "2026-10-01 14:46:56",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AcroCEF",
                      "AdobeCollabSync",
                      "chrome",
                      "crashhelper",
@@ -13,9 +14,11 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64"
                  ],
