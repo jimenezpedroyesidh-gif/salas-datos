@@ -1,13 +1,9 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-01 16:31:03",
+    "ultima_vez":  "2026-10-02 08:05:44",
     "arranque":  "2026-09-25 16:35:12",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeCollabSync",
-                     "AppActions",
-                     "BraveCrashHandler",
-                     "BraveCrashHandler64",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -15,10 +11,8 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
-                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
