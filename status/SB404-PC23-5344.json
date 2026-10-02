@@ -1,11 +1,9 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-01 16:18:02",
+    "ultima_vez":  "2026-10-02 15:23:28",
     "arranque":  "2026-10-01 05:34:17",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
-                     "AppVShNotify",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,7 +14,6 @@
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
-                     "rundll32",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
