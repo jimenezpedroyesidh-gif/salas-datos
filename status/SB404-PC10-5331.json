@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-02 10:57:02",
+    "ultima_vez":  "2026-10-02 11:17:03",
     "arranque":  "2026-10-02 10:11:43",
     "conexion":  "ethernet",
     "procesos":  [
@@ -22,7 +22,8 @@
                      "soffice.bin",
                      "unsecapp",
                      "WavesSvc64",
-                     "WhatsApp.Root"
+                     "WhatsApp.Root",
+                     "WINPROJ"
                  ],
     "apagado":  false
 }
