@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-02 15:24:01",
+    "ultima_vez":  "2026-10-02 15:27:02",
     "arranque":  "2026-10-02 15:18:45",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AcroCEF",
                      "AdobeCollabSync",
                      "chrome",
                      "CrossDeviceResume",
@@ -13,9 +12,11 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "mscopilot_proxy",
                      "MSOSYNC",
                      "ollama",
                      "ollama app",
