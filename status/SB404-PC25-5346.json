@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-02 08:35:46",
+    "ultima_vez":  "2026-10-02 08:41:03",
     "arranque":  "2026-10-01 15:55:14",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -13,6 +14,7 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
