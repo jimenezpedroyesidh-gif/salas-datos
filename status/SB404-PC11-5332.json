@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-02 10:18:02",
+    "ultima_vez":  "2026-10-02 10:38:04",
     "arranque":  "2026-09-30 10:10:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -19,8 +20,8 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "Taskmgr",
                      "unsecapp",
