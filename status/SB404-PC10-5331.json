@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-02 15:28:48",
+    "ultima_vez":  "2026-10-02 15:37:02",
     "arranque":  "2026-10-02 10:11:43",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -15,8 +16,6 @@
                      "jusched",
                      "M365Copilot",
                      "mscopilot_proxy",
-                     "MSOSYNC",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
