@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-02 01:46:47",
+    "ultima_vez":  "2026-10-02 03:09:29",
     "arranque":  "2026-09-29 19:45:12",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,13 +11,11 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
-                     "mobsync",
                      "msedge",
                      "msoia",
                      "ollama",
