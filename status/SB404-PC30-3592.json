@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-02 07:28:37",
+    "ultima_vez":  "2026-10-02 07:45:04",
     "arranque":  "2026-10-02 06:36:45",
     "conexion":  "ethernet",
     "procesos":  [
                      "notepad"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
