@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-02 10:13:28",
+    "ultima_vez":  "2026-10-02 10:28:02",
     "arranque":  "2026-10-01 15:38:56",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,12 +13,13 @@
                      "ipf_helper",
                      "jucheck",
                      "jusched",
+                     "msedge",
                      "RtkAudUService64",
                      "rvlkl",
-                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
+                     "soffice",
+                     "soffice.bin",
+                     "swriter",
                      "unsecapp",
                      "WavesSvc64",
                      "WindowsPackageManagerServer"
