@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-02 07:39:11",
+    "ultima_vez":  "2026-10-02 10:13:28",
     "arranque":  "2026-10-01 15:38:56",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
+                     "ActionsServer",
                      "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,7 +14,6 @@
                      "ipf_helper",
                      "jucheck",
                      "jusched",
-                     "OSProfileCollector",
                      "RtkAudUService64",
                      "rvlkl",
                      "SDXHelper",
@@ -22,7 +21,8 @@
                      "SoftLandingTask",
                      "StoreDesktopExtension",
                      "unsecapp",
-                     "WavesSvc64"
+                     "WavesSvc64",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
