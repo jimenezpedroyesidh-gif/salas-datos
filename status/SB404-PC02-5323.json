@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-02 07:47:02",
+    "ultima_vez":  "2026-10-02 08:07:03",
     "arranque":  "2026-09-29 19:45:12",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,6 +17,7 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "msedge",
+                     "netbeans64",
                      "ollama",
                      "ollama app",
                      "RtkAudUService64",
