@@ -1,17 +1,17 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-02 06:15:56",
+    "ultima_vez":  "2026-10-02 06:18:02",
     "arranque":  "2026-09-30 10:10:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
-                     "identity_helper",
                      "IGCC",
                      "IGCCTray",
                      "ipf_helper",
@@ -23,7 +23,6 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
