@@ -1,24 +1,10 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-02 11:36:03",
+    "ultima_vez":  "2026-10-02 11:37:57",
     "arranque":  "2026-10-02 10:10:56",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
-                     "chrome",
-                     "Copilot",
-                     "CrossDeviceResume",
-                     "CrossDeviceService",
-                     "Dell.TechHub.Instrumentation.UserProcess",
-                     "IDBWM",
-                     "ipf_helper",
-                     "M365Copilot",
-                     "MicrosoftStartFeedProvider",
-                     "ONENOTEM",
-                     "RtkAudUService64",
-                     "ShellHost",
-                     "unsecapp",
-                     "WidgetBoard"
+                     "ShellHost"
                  ],
-    "apagado":  false
+    "apagado":  true
 }
