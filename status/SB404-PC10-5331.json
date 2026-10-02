@@ -1,26 +1,18 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-02 07:57:02",
-    "arranque":  "2026-10-01 15:20:48",
+    "ultima_vez":  "2026-10-02 10:12:33",
+    "arranque":  "2026-10-02 10:11:43",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "Dell.TechHub.Instrumentation.UserProcess",
-                     "eclipse",
-                     "IDBWM",
                      "ipf_helper",
-                     "jucheck",
-                     "jusched",
-                     "M365Copilot",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64",
-                     "WhatsApp.Root",
-                     "WindowsPackageManagerServer"
+                     "WavesSvc64"
                  ],
     "apagado":  false
 }
