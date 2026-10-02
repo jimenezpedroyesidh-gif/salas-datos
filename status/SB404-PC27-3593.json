@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC27-3593",
-    "ultima_vez":  "2026-10-01 15:20:03",
+    "ultima_vez":  "2026-10-02 08:03:00",
     "arranque":  "2026-09-28 14:43:25",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,8 +8,7 @@
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "MSOSYNC",
-                     "rundll32"
+                     "StoreDesktopExtension"
                  ],
     "apagado":  false
 }
