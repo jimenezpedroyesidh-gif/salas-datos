@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC07-5328",
-    "ultima_vez":  "2026-10-02 03:29:26",
+    "ultima_vez":  "2026-10-02 08:22:21",
     "arranque":  "2026-10-01 10:17:31",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
@@ -18,8 +17,6 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "msedge",
-                     "opushutil",
-                     "OSProfileCollector",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
