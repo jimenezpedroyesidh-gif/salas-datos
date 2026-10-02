@@ -10,5 +10,5 @@
                      "mobsync",
                      "MusNotificationUx"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
