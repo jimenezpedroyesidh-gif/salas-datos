@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-02 09:00:02",
+    "ultima_vez":  "2026-10-02 09:20:03",
     "arranque":  "2026-09-25 15:52:18",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,6 +9,7 @@
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "DataExchangeHost",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
