@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-02 08:09:24",
+    "ultima_vez":  "2026-10-02 08:29:03",
     "arranque":  "2026-10-01 10:07:07",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
@@ -17,12 +16,10 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "opushutil",
+                     "netbeans64",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
