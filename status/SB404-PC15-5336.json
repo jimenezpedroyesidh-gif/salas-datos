@@ -1,16 +1,16 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-02 08:29:34",
+    "ultima_vez":  "2026-10-02 08:49:02",
     "arranque":  "2026-10-01 16:00:31",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
-                     "identity_helper",
                      "ipf_helper",
                      "jucheck",
                      "jusched",
@@ -21,8 +21,6 @@
                      "rvlkl",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
