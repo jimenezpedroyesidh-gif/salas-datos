@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-01 16:07:02",
+    "ultima_vez":  "2026-10-01 21:46:49",
     "arranque":  "2026-09-29 19:45:12",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
@@ -19,9 +20,13 @@
                      "msedge",
                      "ollama",
                      "ollama app",
+                     "opushutil",
+                     "platform_experience_helper",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
