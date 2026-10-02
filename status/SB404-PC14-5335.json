@@ -1,11 +1,11 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-01 19:39:27",
+    "ultima_vez":  "2026-10-02 03:03:36",
     "arranque":  "2026-10-01 15:38:56",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AppActions",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,6 +15,7 @@
                      "ipf_helper",
                      "jucheck",
                      "jusched",
+                     "OSProfileCollector",
                      "RtkAudUService64",
                      "rvlkl",
                      "SDXHelper",
