@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-01 20:19:50",
+    "ultima_vez":  "2026-10-02 03:16:11",
     "arranque":  "2026-09-30 10:10:39",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,13 +15,13 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
-                     "mobsync",
                      "MoNotificationUx",
                      "msedge",
+                     "msoia",
+                     "opushutil",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
