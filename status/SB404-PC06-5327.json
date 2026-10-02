@@ -1,12 +1,12 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-02 10:20:16",
+    "ultima_vez":  "2026-10-02 15:23:00",
     "arranque":  "2026-09-30 10:10:39",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
-                     "cleanmgr",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -20,10 +20,10 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
