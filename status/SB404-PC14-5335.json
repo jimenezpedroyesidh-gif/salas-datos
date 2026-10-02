@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-02 11:08:02",
+    "ultima_vez":  "2026-10-02 11:28:03",
     "arranque":  "2026-10-01 15:38:56",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,8 +21,7 @@
                      "soffice.bin",
                      "swriter",
                      "unsecapp",
-                     "WavesSvc64",
-                     "WindowsPackageManagerServer"
+                     "WavesSvc64"
                  ],
     "apagado":  false
 }
