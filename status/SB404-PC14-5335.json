@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-02 03:03:36",
+    "ultima_vez":  "2026-10-02 07:39:11",
     "arranque":  "2026-10-01 15:38:56",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,6 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
