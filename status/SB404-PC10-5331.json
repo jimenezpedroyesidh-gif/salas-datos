@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-02 15:23:22",
+    "ultima_vez":  "2026-10-02 15:28:48",
     "arranque":  "2026-10-02 10:11:43",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,11 +11,17 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
+                     "jusched",
+                     "M365Copilot",
                      "mscopilot_proxy",
+                     "MSOSYNC",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64"
+                     "WavesSvc64",
+                     "WhatsApp.Root"
                  ],
     "apagado":  false
 }
