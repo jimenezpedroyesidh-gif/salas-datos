@@ -1,16 +1,13 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-02 06:39:57",
-    "arranque":  "2026-10-02 06:36:47",
+    "ultima_vez":  "2026-10-02 06:45:05",
+    "arranque":  "2026-10-02 06:36:45",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AcroCEF",
-                     "AdobeARM",
                      "AdobeCollabSync",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "MusNotifyIcon",
                      "notepad"
                  ],
     "apagado":  false
