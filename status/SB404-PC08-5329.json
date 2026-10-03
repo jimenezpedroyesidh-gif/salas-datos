@@ -1,10 +1,22 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-02 16:02:29",
-    "arranque":  "2026-10-02 15:20:43",
+    "ultima_vez":  "2026-10-03 07:46:57",
+    "arranque":  "2026-10-03 07:46:10",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "AdobeCollabSync",
+                     "browser_assistant",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "ipf_helper",
+                     "opera",
+                     "opera_autoupdate",
+                     "opera_crashreporter",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
