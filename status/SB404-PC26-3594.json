@@ -1,17 +1,14 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-03 07:49:23",
+    "ultima_vez":  "2026-10-03 08:02:04",
     "arranque":  "2026-10-01 15:32:44",
     "conexion":  "ethernet",
     "procesos":  [
                      "chrome",
-                     "crashhelper",
-                     "firefox",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "MSOSYNC",
-                     "MusNotifyIcon"
+                     "MSOSYNC"
                  ],
     "apagado":  false
 }
