@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-03 07:49:16",
+    "ultima_vez":  "2026-10-03 07:54:02",
     "arranque":  "2026-10-03 07:44:25",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,11 +9,11 @@
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "default-browser-agent",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "RtkAudUService64",
                      "ShellHost",
