@@ -1,25 +1,32 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-02 11:41:03",
-    "arranque":  "2026-10-01 15:55:14",
+    "ultima_vez":  "2026-10-03 02:17:52",
+    "arranque":  "2026-10-01 15:55:11",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "AppActions",
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "mscopilot_proxy",
+                     "opushutil",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
