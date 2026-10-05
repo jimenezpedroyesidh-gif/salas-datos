@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-05 08:00:42",
+    "ultima_vez":  "2026-10-05 09:18:40",
     "arranque":  "2026-10-05 06:00:22",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,6 +17,7 @@
                      "SDXHelper",
                      "ShellHost",
                      "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
