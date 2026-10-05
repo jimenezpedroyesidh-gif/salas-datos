@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-05 14:20:15",
+    "ultima_vez":  "2026-10-05 14:25:42",
     "arranque":  "2026-10-05 05:59:19",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,8 +11,11 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
+                     "MSOSYNC",
                      "ollama",
                      "ollama app",
                      "RtkAudUService64",
