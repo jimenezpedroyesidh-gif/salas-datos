@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-05 06:18:02",
+    "ultima_vez":  "2026-10-05 06:38:03",
     "arranque":  "2026-10-01 05:34:17",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,11 +16,10 @@
                      "msedge",
                      "netbeans64",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
