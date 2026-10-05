@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-05 15:17:02",
+    "ultima_vez":  "2026-10-05 15:37:03",
     "arranque":  "2026-10-05 08:11:32",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Acrobat",
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
@@ -15,9 +16,11 @@
                      "jusched",
                      "M365Copilot",
                      "msedge",
-                     "MSOSYNC",
                      "RtkAudUService64",
+                     "scalc",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WavesSvc64",
                      "WhatsApp.Root"
