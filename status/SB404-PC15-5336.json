@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-05 08:29:02",
+    "ultima_vez":  "2026-10-05 08:49:03",
     "arranque":  "2026-10-05 08:19:31",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "chrome",
                      "crashhelper",
                      "CrossDeviceResume",
@@ -17,10 +18,9 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "mscopilot_proxy",
-                     "MSOSYNC",
                      "RtkAudUService64",
                      "rvlkl",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
