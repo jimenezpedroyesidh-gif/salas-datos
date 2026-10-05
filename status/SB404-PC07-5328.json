@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC07-5328",
-    "ultima_vez":  "2026-10-05 06:14:03",
+    "ultima_vez":  "2026-10-05 06:34:05",
     "arranque":  "2026-10-01 10:17:27",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,7 +14,7 @@
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
-                     "MSOSYNC",
+                     "mscopilot_proxy",
                      "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
