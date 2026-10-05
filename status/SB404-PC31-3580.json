@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-05 10:12:53",
+    "ultima_vez":  "2026-10-05 10:12:51",
     "arranque":  "2026-09-30 15:06:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "DefenderSessionHelper"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
