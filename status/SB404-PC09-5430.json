@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-05 10:57:02",
+    "ultima_vez":  "2026-10-05 11:17:02",
     "arranque":  "2026-10-05 09:15:32",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,11 +15,12 @@
                      "java",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "mscopilot",
+                     "MSOSYNC",
                      "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
+                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
