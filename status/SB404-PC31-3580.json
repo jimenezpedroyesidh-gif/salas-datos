@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-05 11:21:03",
-    "arranque":  "2026-09-30 15:06:18",
+    "ultima_vez":  "2026-10-05 11:41:03",
+    "arranque":  "2026-09-30 15:06:23",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
@@ -9,6 +9,7 @@
                      "DefenderSessionHelper",
                      "jucheck",
                      "jusched",
+                     "MSOSYNC",
                      "netbeans64"
                  ],
     "apagado":  false
