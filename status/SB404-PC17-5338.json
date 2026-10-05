@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-05 15:31:03",
+    "ultima_vez":  "2026-10-05 15:51:03",
     "arranque":  "2026-09-25 16:35:12",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,6 +17,7 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "mscopilot_proxy",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
