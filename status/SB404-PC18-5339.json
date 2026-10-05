@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-05 15:11:02",
+    "ultima_vez":  "2026-10-05 15:31:02",
     "arranque":  "2026-10-05 14:27:01",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,6 +10,7 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "EXCEL",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
