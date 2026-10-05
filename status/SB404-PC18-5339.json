@@ -1,11 +1,10 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-05 15:51:03",
+    "ultima_vez":  "2026-10-05 16:11:02",
     "arranque":  "2026-10-05 14:27:01",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,7 +14,6 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "prevhost",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
