@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-05 08:46:02",
+    "ultima_vez":  "2026-10-05 09:06:02",
     "arranque":  "2026-10-05 06:47:46",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,6 +20,7 @@
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SlideToShutDown",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
