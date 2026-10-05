@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-05 15:37:02",
+    "ultima_vez":  "2026-10-05 15:57:02",
     "arranque":  "2026-10-05 14:19:54",
     "conexion":  "ethernet",
     "procesos":  [
@@ -18,8 +18,6 @@
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
-                     "soffice",
-                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
