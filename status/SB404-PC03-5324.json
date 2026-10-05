@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-05 15:08:03",
+    "ultima_vez":  "2026-10-05 15:28:03",
     "arranque":  "2026-10-05 06:00:22",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,6 +11,7 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "EXCEL",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
@@ -18,6 +19,7 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "splwow64",
                      "unsecapp",
                      "WidgetBoard"
                  ],
