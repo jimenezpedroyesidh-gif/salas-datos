@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-05 09:54:02",
+    "ultima_vez":  "2026-10-05 11:14:42",
     "arranque":  "2026-10-05 09:28:28",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,7 +15,9 @@
                      "jucheck",
                      "jusched",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64"
                  ],
