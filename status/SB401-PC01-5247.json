@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-05 07:07:02",
+    "ultima_vez":  "2026-10-05 07:27:18",
     "arranque":  "2026-10-01 11:12:58",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,6 +12,7 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
+                     "identity_helper",
                      "ipf_helper",
                      "m365copilot_autostarter",
                      "MicrosoftStartFeedProvider",
