@@ -1,10 +1,19 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-05 09:56:08",
+    "ultima_vez":  "2026-10-05 16:03:34",
     "arranque":  "2026-10-05 09:55:35",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "ipf_helper",
+                     "mobsync",
+                     "opushutil",
+                     "RtkAudUService64",
+                     "rundll32",
+                     "ShellHost",
+                     "unsecapp",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
