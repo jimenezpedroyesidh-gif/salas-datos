@@ -1,15 +1,17 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-02 11:40:02",
+    "ultima_vez":  "2026-10-05 09:59:00",
     "arranque":  "2026-10-02 10:13:05",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
@@ -22,7 +24,8 @@
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
