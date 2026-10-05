@@ -1,13 +1,12 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-05 16:19:01",
+    "ultima_vez":  "2026-10-05 16:39:02",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
                      "brave",
                      "chrome",
                      "CompPkgSrv",
-                     "CredentialUIBroker",
                      "DefenderSessionHelper",
                      "E_YATIURE",
                      "EEventManager",
