@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-05 06:10:15",
+    "ultima_vez":  "2026-10-05 06:21:03",
     "arranque":  "2026-10-02 08:37:16",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -12,6 +13,7 @@
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
                      "netbeans64",
