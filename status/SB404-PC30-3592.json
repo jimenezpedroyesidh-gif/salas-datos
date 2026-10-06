@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-06 09:05:04",
+    "ultima_vez":  "2026-10-06 09:25:05",
     "arranque":  "2026-10-02 10:15:31",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,7 +9,9 @@
                      "CompPkgSrv",
                      "igfxEM",
                      "igfxHK",
-                     "igfxTray"
+                     "igfxTray",
+                     "pgAdmin4",
+                     "python"
                  ],
     "apagado":  false
 }
