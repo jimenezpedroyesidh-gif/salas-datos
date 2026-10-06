@@ -1,9 +1,11 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-05 20:39:01",
+    "ultima_vez":  "2026-10-06 09:46:32",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
+                     "BackgroundTransferHost",
+                     "chrome",
                      "CompPkgSrv",
                      "DefenderSessionHelper",
                      "E_YATIURE",
@@ -15,7 +17,7 @@
                      "igfxHK",
                      "igfxTray",
                      "playitd-tray",
-                     "xampp-control"
+                     "StoreDesktopExtension"
                  ],
     "apagado":  false
 }
