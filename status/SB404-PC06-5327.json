@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-06 09:13:04",
+    "ultima_vez":  "2026-10-06 09:33:03",
     "arranque":  "2026-10-06 08:29:14",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,6 +8,9 @@
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
+                     "Code",
+                     "CodeSetup-stable-04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1",
+                     "CodeSetup-stable-04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1.tmp",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -20,9 +23,9 @@
                      "pgAdmin4",
                      "python",
                      "RtkAudUService64",
+                     "rundll32",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
