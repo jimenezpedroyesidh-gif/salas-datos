@@ -1,19 +1,14 @@
 {
     "hostname":  "SB404-PC27-3593",
-    "ultima_vez":  "2026-10-06 11:08:50",
+    "ultima_vez":  "2026-10-06 11:12:59",
     "arranque":  "2026-09-28 14:43:27",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
                      "chrome",
-                     "crashhelper",
-                     "default-browser-agent",
                      "DefenderSessionHelper",
-                     "firefox",
                      "igfxEM",
                      "igfxHK",
-                     "igfxTray",
-                     "MSOSYNC"
+                     "igfxTray"
                  ],
     "apagado":  false
 }
