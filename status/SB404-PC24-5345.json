@@ -1,32 +1,23 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-06 11:41:03",
+    "ultima_vez":  "2026-10-06 14:11:07",
     "arranque":  "2026-10-02 08:37:16",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "DataExchangeHost",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "httpd",
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
-                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "mscopilot_proxy",
                      "msedge",
-                     "mysqld",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard",
-                     "xampp-control"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
