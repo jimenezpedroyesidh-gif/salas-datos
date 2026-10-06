@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-06 11:37:02",
+    "ultima_vez":  "2026-10-06 11:57:02",
     "arranque":  "2026-10-05 14:19:54",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
@@ -21,9 +22,6 @@
                      "Notepad",
                      "RtkAudUService64",
                      "ShellHost",
-                     "soffice",
-                     "soffice.bin",
-                     "swriter",
                      "unsecapp",
                      "WidgetBoard",
                      "xampp-control"
