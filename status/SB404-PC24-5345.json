@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-06 14:41:02",
+    "ultima_vez":  "2026-10-06 15:01:02",
     "arranque":  "2026-10-02 08:37:16",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,7 +8,6 @@
                      "AcroCEF",
                      "AdobeCollabSync",
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DataExchangeHost",
@@ -21,8 +20,11 @@
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
+                     "scalc",
                      "SDXHelper",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
