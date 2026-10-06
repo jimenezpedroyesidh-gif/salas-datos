@@ -1,11 +1,9 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-05 19:59:04",
+    "ultima_vez":  "2026-10-05 20:19:01",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
-                     "brave",
-                     "chrome",
                      "CompPkgSrv",
                      "DefenderSessionHelper",
                      "E_YATIURE",
@@ -17,9 +15,6 @@
                      "igfxHK",
                      "igfxTray",
                      "playitd-tray",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "xampp-control"
                  ],
     "apagado":  false
