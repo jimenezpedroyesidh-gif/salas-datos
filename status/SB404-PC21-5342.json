@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-06 08:09:54",
+    "ultima_vez":  "2026-10-06 11:06:26",
     "arranque":  "2026-10-05 16:06:35",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
