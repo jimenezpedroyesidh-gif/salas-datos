@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-06 08:28:02",
+    "ultima_vez":  "2026-10-06 08:48:02",
     "arranque":  "2026-10-05 14:20:38",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,6 +14,9 @@
                      "jucheck",
                      "jusched",
                      "mscopilot_proxy",
+                     "pgAdmin4",
+                     "Photos",
+                     "python",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
