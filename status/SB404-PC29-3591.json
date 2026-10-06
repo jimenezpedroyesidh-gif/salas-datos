@@ -1,15 +1,22 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-06 11:35:02",
+    "ultima_vez":  "2026-10-06 11:44:04",
     "arranque":  "2026-09-17 06:27:47",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
+                     "CompPkgSrv",
                      "GameInputSvc",
+                     "httpd",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
+                     "jucheck",
                      "jusched",
-                     "MusNotifyIcon"
+                     "MSOSYNC",
+                     "MusNotifyIcon",
+                     "mysqld",
+                     "xampp-control"
                  ],
     "apagado":  false
 }
