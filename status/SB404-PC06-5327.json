@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-06 16:53:02",
+    "ultima_vez":  "2026-10-06 17:13:02",
     "arranque":  "2026-10-06 14:10:02",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,9 +15,14 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "msedge",
                      "RtkAudUService64",
+                     "scalc",
                      "SDXHelper",
+                     "SearchProtocolHost",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
