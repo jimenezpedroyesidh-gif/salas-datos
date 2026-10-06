@@ -1,10 +1,18 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-05 17:17:04",
+    "ultima_vez":  "2026-10-06 14:14:53",
     "arranque":  "2026-10-05 16:04:08",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "BackgroundTransferHost",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
+                     "ipf_helper",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
