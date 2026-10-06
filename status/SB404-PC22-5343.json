@@ -1,23 +1,18 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-06 11:56:02",
+    "ultima_vez":  "2026-10-06 14:03:57",
     "arranque":  "2026-10-05 09:55:35",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "httpd",
                      "IDBWM",
                      "ipf_helper",
-                     "MicrosoftStartFeedProvider",
-                     "mysqld",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard",
-                     "xampp-control"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
