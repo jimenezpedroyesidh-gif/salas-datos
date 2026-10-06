@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-06 11:06:30",
+    "ultima_vez":  "2026-10-06 11:21:04",
     "arranque":  "2026-10-01 15:55:11",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
+                     "AdobeCollabSync",
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -12,7 +13,10 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "java",
+                     "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
