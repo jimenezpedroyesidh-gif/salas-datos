@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-07 15:29:46",
+    "ultima_vez":  "2026-10-07 16:30:17",
     "arranque":  "2026-10-05 09:21:34",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,6 +11,7 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
                      "IDBWM",
                      "IGCC",
                      "IGCCTray",
@@ -21,10 +22,10 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
