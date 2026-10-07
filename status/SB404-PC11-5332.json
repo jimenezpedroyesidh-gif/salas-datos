@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-07 10:38:07",
+    "ultima_vez":  "2026-10-07 10:58:03",
     "arranque":  "2026-10-05 09:21:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,9 +11,6 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "Frontline 1942",
-                     "GameBar",
-                     "GameBarFTServer",
                      "GameBarPresenceWriter",
                      "IDBWM",
                      "IGCC",
@@ -22,16 +19,19 @@
                      "jucheck",
                      "jusched",
                      "M365Copilot",
+                     "Microsoft Sudoku",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
                      "SDXHelper",
+                     "SearchProtocolHost",
                      "ShellHost",
+                     "Solitaire",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
-                     "XboxGameBarWidgets",
+                     "XboxIdp",
                      "XboxPcAppFT"
                  ],
     "apagado":  false
