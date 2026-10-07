@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-07 11:58:03",
-    "arranque":  "2026-10-05 09:21:36",
+    "ultima_vez":  "2026-10-07 15:29:46",
+    "arranque":  "2026-10-05 09:21:34",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
@@ -23,6 +24,7 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
