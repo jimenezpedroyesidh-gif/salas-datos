@@ -1,23 +1,20 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-06 19:59:03",
+    "ultima_vez":  "2026-10-07 13:48:22",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
-                     "brave",
-                     "chrome",
-                     "CompPkgSrv",
+                     "BackgroundTransferHost",
                      "DefenderSessionHelper",
-                     "E_YARNURE",
                      "E_YATIURE",
                      "EEventManager",
-                     "Emc.Captiva.WebToolkitHost",
                      "FileWatcher",
                      "FUFAXRCV",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "playitd-tray"
+                     "playitd-tray",
+                     "StoreDesktopExtension"
                  ],
     "apagado":  false
 }
