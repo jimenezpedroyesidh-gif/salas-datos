@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-07 15:57:05",
+    "ultima_vez":  "2026-10-07 16:17:03",
     "arranque":  "2026-10-07 14:32:16",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,6 +21,7 @@
                      "ShellHost",
                      "SupportAssistUI",
                      "unsecapp",
+                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
