@@ -1,6 +1,6 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-07 15:39:03",
+    "ultima_vez":  "2026-10-07 15:59:02",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,7 +16,8 @@
                      "igfxHK",
                      "igfxTray",
                      "notepad",
-                     "playitd-tray"
+                     "playitd-tray",
+                     "WINWORD"
                  ],
     "apagado":  false
 }
