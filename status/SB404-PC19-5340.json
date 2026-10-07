@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-07 11:12:02",
+    "ultima_vez":  "2026-10-07 11:32:03",
     "arranque":  "2026-10-07 10:11:09",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,10 +8,11 @@
                      "AppActions",
                      "chrome",
                      "Code",
-                     "CodeSetup-stable-07f806f999227108933c2e30515b26eecc1fda74",
-                     "CodeSetup-stable-07f806f999227108933c2e30515b26eecc1fda74.tmp",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c.tmp",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "DataExchangeHost",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
