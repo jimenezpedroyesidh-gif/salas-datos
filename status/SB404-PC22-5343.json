@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-07 10:16:03",
+    "ultima_vez":  "2026-10-07 10:36:02",
     "arranque":  "2026-10-05 09:55:35",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
