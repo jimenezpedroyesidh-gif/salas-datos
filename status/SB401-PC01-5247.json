@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-07 14:16:21",
+    "ultima_vez":  "2026-10-07 14:25:33",
     "arranque":  "2026-10-07 10:14:57",
     "conexion":  "ethernet",
     "procesos":  [
@@ -13,7 +13,7 @@
                      "IDBWM",
                      "ipf_helper",
                      "m365copilot_autostarter",
-                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
