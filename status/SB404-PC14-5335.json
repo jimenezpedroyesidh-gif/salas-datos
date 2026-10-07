@@ -1,12 +1,14 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-07 11:08:02",
+    "ultima_vez":  "2026-10-07 11:28:04",
     "arranque":  "2026-10-07 10:10:33",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
                      "chrome",
                      "Code",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c.tmp",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
