@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-07 09:09:02",
+    "ultima_vez":  "2026-10-07 09:29:03",
     "arranque":  "2026-10-07 00:12:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,6 +20,7 @@
                      "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
