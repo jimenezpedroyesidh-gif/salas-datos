@@ -1,12 +1,14 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-07 10:31:02",
+    "ultima_vez":  "2026-10-07 10:51:03",
     "arranque":  "2026-10-07 08:04:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
+                     "Code",
+                     "copilot-runtime",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,6 +18,7 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "mscopilot_proxy",
+                     "notepad++",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
