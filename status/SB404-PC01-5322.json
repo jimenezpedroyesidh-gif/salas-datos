@@ -1,15 +1,17 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-07 16:13:14",
+    "ultima_vez":  "2026-10-08 06:29:27",
     "arranque":  "2026-10-05 09:08:56",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
+                     "identity_helper",
                      "ipf_helper",
                      "jusched",
                      "M365Copilot",
