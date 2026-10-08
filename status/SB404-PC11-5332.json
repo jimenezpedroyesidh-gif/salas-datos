@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-08 08:13:09",
+    "ultima_vez":  "2026-10-08 08:18:35",
     "arranque":  "2026-10-05 09:21:34",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,10 +14,13 @@
                      "IGCC",
                      "IGCCTray",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "M365Copilot",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
