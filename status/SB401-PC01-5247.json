@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-08 10:27:02",
+    "ultima_vez":  "2026-10-08 10:47:02",
     "arranque":  "2026-10-08 10:13:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
