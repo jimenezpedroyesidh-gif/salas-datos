@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-08 08:16:29",
+    "ultima_vez":  "2026-10-08 08:36:03",
     "arranque":  "2026-10-08 08:12:34",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -13,6 +15,8 @@
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard",
                      "WindowsPackageManagerServer"
