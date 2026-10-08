@@ -1,13 +1,15 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-08 08:18:33",
+    "ultima_vez":  "2026-10-08 08:25:03",
     "arranque":  "2026-10-08 08:13:58",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "chrome",
                      "igfxEM",
                      "igfxHK",
-                     "igfxTray"
+                     "igfxTray",
+                     "SearchProtocolHost"
                  ],
     "apagado":  false
 }
