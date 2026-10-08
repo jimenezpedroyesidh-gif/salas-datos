@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-08 15:06:03",
+    "ultima_vez":  "2026-10-08 15:26:03",
     "arranque":  "2026-10-08 08:18:45",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,12 +19,12 @@
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
