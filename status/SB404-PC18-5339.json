@@ -1,11 +1,10 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-08 15:51:02",
+    "ultima_vez":  "2026-10-08 16:11:03",
     "arranque":  "2026-10-07 08:05:04",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
-                     "cmd",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,7 +13,6 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
-                     "java",
                      "MicrosoftStartFeedProvider",
                      "msedge",
                      "netbeans64",
