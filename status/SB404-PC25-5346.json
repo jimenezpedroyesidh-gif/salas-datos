@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-08 08:53:02",
+    "ultima_vez":  "2026-10-08 09:01:07",
     "arranque":  "2026-10-08 08:44:00",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
+                     "AdobeCollabSync",
                      "ai",
+                     "AppActions",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -16,10 +17,9 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "opushutil",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard",
                      "WINWORD"
