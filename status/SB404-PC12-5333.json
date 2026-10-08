@@ -1,13 +1,12 @@
 {
     "hostname":  "SB404-PC12-5333",
-    "ultima_vez":  "2026-10-08 16:00:02",
+    "ultima_vez":  "2026-10-08 16:20:02",
     "arranque":  "2026-10-08 15:04:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppVShNotify",
                      "chrome",
-                     "cmd",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DataExchangeHost",
@@ -15,7 +14,6 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
-                     "java",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "netbeans64",
