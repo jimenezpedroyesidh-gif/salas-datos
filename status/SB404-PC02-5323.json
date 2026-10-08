@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-08 06:26:34",
+    "ultima_vez":  "2026-10-08 06:27:03",
     "arranque":  "2026-10-08 06:25:46",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,10 +10,11 @@
                      "DefenderSessionHelper",
                      "ipf_helper",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
+                     "MSOSYNC",
                      "OllamaSetup",
                      "OllamaSetup.tmp",
                      "RtkAudUService64",
-                     "runonce",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
