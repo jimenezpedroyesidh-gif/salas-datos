@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-08 08:15:02",
+    "ultima_vez":  "2026-10-08 08:35:02",
     "arranque":  "2026-10-07 10:10:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
