@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-08 15:09:53",
+    "ultima_vez":  "2026-10-08 15:11:02",
     "arranque":  "2026-10-07 08:05:04",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -16,7 +15,6 @@
                      "MicrosoftStartFeedProvider",
                      "msedge",
                      "netbeans64",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
