@@ -1,16 +1,24 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-08 06:21:47",
+    "ultima_vez":  "2026-10-08 06:31:14",
     "arranque":  "2026-10-08 06:20:58",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
+                     "ActionsServer",
+                     "AdobeARM",
+                     "AdobeCollabSync",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "firefox",
+                     "IDBWM",
                      "ipf_helper",
+                     "MSOSYNC",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
-                     "unsecapp"
+                     "StoreDesktopExtension",
+                     "unsecapp",
+                     "WavesSvc64"
                  ],
     "apagado":  false
 }
