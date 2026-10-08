@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-07 16:38:02",
+    "ultima_vez":  "2026-10-08 08:14:44",
     "arranque":  "2026-10-01 05:34:17",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -12,11 +11,9 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
-                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
