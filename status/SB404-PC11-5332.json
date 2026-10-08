@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-08 01:29:54",
+    "ultima_vez":  "2026-10-08 06:19:23",
     "arranque":  "2026-10-05 09:21:34",
     "conexion":  "ethernet",
     "procesos":  [
@@ -24,11 +24,12 @@
                      "MoNotificationUx",
                      "msedge",
                      "MSOSYNC",
-                     "opushutil",
                      "RtkAudUService64",
+                     "rundll32",
                      "SDXHelper",
                      "ShellHost",
                      "StoreDesktopExtension",
+                     "SupportAssistAppWire",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
