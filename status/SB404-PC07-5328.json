@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC07-5328",
-    "ultima_vez":  "2026-10-08 08:54:02",
+    "ultima_vez":  "2026-10-08 09:14:03",
     "arranque":  "2026-10-06 14:10:12",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,6 +8,10 @@
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
+                     "Code",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c.tmp",
+                     "copilot-runtime",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
