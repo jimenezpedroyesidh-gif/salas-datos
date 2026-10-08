@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC07-5328",
-    "ultima_vez":  "2026-10-08 08:14:03",
+    "ultima_vez":  "2026-10-08 08:34:03",
     "arranque":  "2026-10-06 14:10:12",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
@@ -19,7 +20,6 @@
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
-                     "swriter",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
