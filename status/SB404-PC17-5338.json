@@ -1,12 +1,11 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-08 15:09:49",
+    "ultima_vez":  "2026-10-08 15:11:05",
     "arranque":  "2026-10-07 08:04:23",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
+                     "AdobeCollabSync",
                      "Battly Launcher",
-                     "brave",
                      "BraveCrashHandler",
                      "BraveCrashHandler64",
                      "BraveUpdate",
@@ -19,7 +18,6 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "netbeans64",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "SoftLandingTask",
