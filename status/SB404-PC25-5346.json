@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-08 09:01:07",
+    "ultima_vez":  "2026-10-08 09:21:05",
     "arranque":  "2026-10-08 08:44:00",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,6 +20,7 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SupportAssistUI",
                      "unsecapp",
                      "WidgetBoard",
                      "WINWORD"
