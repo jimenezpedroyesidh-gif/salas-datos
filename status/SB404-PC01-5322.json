@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-08 14:46:03",
+    "ultima_vez":  "2026-10-08 15:06:03",
     "arranque":  "2026-10-08 08:18:45",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DataExchangeHost",
@@ -22,7 +23,8 @@
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
