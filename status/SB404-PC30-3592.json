@@ -1,15 +1,19 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-09 10:30:20",
-    "arranque":  "2026-10-08 09:10:32",
+    "ultima_vez":  "2026-10-09 10:45:04",
+    "arranque":  "2026-10-08 09:10:20",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
+                     "chrome",
+                     "CompPkgSrv",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
                      "msedge",
-                     "MusNotifyIcon"
+                     "soffice",
+                     "soffice.bin"
                  ],
     "apagado":  false
 }
