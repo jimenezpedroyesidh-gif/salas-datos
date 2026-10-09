@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-09 10:29:24",
+    "ultima_vez":  "2026-10-09 10:34:46",
     "arranque":  "2026-10-05 16:04:05",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,6 +12,7 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "MoNotificationUx",
                      "RtkAudUService64",
