@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-09 08:36:03",
+    "ultima_vez":  "2026-10-09 08:56:03",
     "arranque":  "2026-10-08 08:12:34",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,7 +17,6 @@
                      "SafeExamBrowser",
                      "SafeExamBrowser.Client",
                      "ShellHost",
-                     "SupportAssistUI",
                      "unsecapp",
                      "WidgetBoard"
                  ],
