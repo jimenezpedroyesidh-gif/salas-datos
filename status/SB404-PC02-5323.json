@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-09 16:27:03",
+    "ultima_vez":  "2026-10-09 16:47:03",
     "arranque":  "2026-10-08 06:25:46",
     "conexion":  "ethernet",
     "procesos":  [
@@ -27,6 +27,7 @@
                      "MoNotificationUx",
                      "mscopilot_proxy",
                      "msedge",
+                     "MSOSYNC",
                      "ollama",
                      "ollama app",
                      "Rider.Backend",
