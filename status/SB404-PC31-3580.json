@@ -1,21 +1,16 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-09 10:34:02",
+    "ultima_vez":  "2026-10-09 10:41:02",
     "arranque":  "2026-09-30 15:06:28",
     "conexion":  "ethernet",
     "procesos":  [
-                     "Acrobat",
-                     "AcroCEF",
                      "AdobeARM",
                      "AdobeCollabSync",
                      "chrome",
-                     "crashhelper",
-                     "default-browser-agent",
                      "DefenderSessionHelper",
-                     "firefox",
+                     "jucheck",
                      "jusched",
-                     "MSOSYNC",
-                     "updater"
+                     "MSOSYNC"
                  ],
     "apagado":  false
 }
