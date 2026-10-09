@@ -1,11 +1,13 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-09 11:51:25",
+    "ultima_vez":  "2026-10-09 11:56:02",
     "arranque":  "2026-10-09 10:28:43",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "MicrosoftStartFeedProvider",
                      "ShellHost",
                      "soffice.bin"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
