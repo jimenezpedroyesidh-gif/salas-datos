@@ -1,13 +1,15 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-08 18:19:35",
+    "ultima_vez":  "2026-10-09 03:14:21",
     "arranque":  "2026-10-07 08:04:23",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppVShNotify",
                      "BraveCrashHandler",
                      "BraveCrashHandler64",
+                     "BraveUpdate",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -17,8 +19,11 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "mscopilot_proxy",
+                     "msoia",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
