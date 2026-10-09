@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-08 09:22:05",
-    "arranque":  "2026-10-01 15:32:37",
+    "ultima_vez":  "2026-10-09 10:29:29",
+    "arranque":  "2026-10-01 15:32:36",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
                      "CompPkgSrv",
+                     "crashhelper",
+                     "firefox",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray"
