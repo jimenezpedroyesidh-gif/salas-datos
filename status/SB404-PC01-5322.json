@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-09 14:22:22",
+    "ultima_vez":  "2026-10-09 14:26:02",
     "arranque":  "2026-10-09 14:17:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,6 +12,7 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
