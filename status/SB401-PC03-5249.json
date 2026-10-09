@@ -1,10 +1,9 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-09 10:18:32",
+    "ultima_vez":  "2026-10-09 10:22:02",
     "arranque":  "2026-10-08 18:25:19",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -19,6 +18,7 @@
                      "SafeExamBrowser",
                      "SafeExamBrowser.Client",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
