@@ -1,12 +1,11 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-09 08:17:03",
+    "ultima_vez":  "2026-10-09 08:37:02",
     "arranque":  "2026-10-08 15:05:50",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
-                     "BackgroundTransferHost",
                      "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -17,7 +16,6 @@
                      "jusched",
                      "M365Copilot",
                      "msedge",
-                     "MSOSYNC",
                      "RtkAudUService64",
                      "SafeExamBrowser",
                      "SafeExamBrowser.Client",
