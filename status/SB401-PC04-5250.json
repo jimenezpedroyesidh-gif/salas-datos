@@ -1,11 +1,12 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-09 10:21:33",
+    "ultima_vez":  "2026-10-09 10:29:02",
     "arranque":  "2026-10-09 10:14:06",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
+                     "AdobeARM",
                      "AdobeCollabSync",
+                     "AppActions",
                      "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
@@ -15,7 +16,6 @@
                      "jucheck",
                      "jusched",
                      "MoNotificationUx",
-                     "opushutil",
                      "RtkAudUService64",
                      "SafeExamBrowser",
                      "SafeExamBrowser.Client",
