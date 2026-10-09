@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-09 18:05:16",
+    "ultima_vez":  "2026-10-09 18:12:02",
     "arranque":  "2026-10-09 15:43:39",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,14 +11,17 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WINWORD"
                  ],
     "apagado":  false
 }
