@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-09 15:21:02",
+    "ultima_vez":  "2026-10-09 15:41:03",
     "arranque":  "2026-10-09 14:16:51",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,6 +8,12 @@
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
+                     "Code",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c",
+                     "CodeSetup-stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c.tmp",
+                     "cpptools",
+                     "cpptools-srv",
+                     "cpptools-srv2",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
