@@ -1,10 +1,21 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-08 18:02:29",
+    "ultima_vez":  "2026-10-09 08:03:49",
     "arranque":  "2026-10-08 15:05:50",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "CefSharp.BrowserSubprocess",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
+                     "ipf_helper",
+                     "RtkAudUService64",
+                     "SafeExamBrowser",
+                     "SafeExamBrowser.Client",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
