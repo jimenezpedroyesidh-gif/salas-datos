@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-09 15:01:02",
+    "ultima_vez":  "2026-10-09 15:21:02",
     "arranque":  "2026-10-09 14:16:51",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Acrobat",
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
