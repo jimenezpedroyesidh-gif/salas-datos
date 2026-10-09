@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-09 08:08:03",
+    "ultima_vez":  "2026-10-09 08:28:04",
     "arranque":  "2026-10-09 08:04:28",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
+                     "AppActions",
                      "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -16,8 +18,8 @@
                      "RtkAudUService64",
                      "SafeExamBrowser",
                      "SafeExamBrowser.Client",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
