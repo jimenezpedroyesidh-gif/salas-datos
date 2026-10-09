@@ -1,11 +1,9 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-09 10:10:57",
+    "ultima_vez":  "2026-10-09 11:07:03",
     "arranque":  "2026-10-09 06:23:26",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
-                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
@@ -20,7 +18,6 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
