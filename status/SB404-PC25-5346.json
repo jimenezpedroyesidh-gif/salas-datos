@@ -1,18 +1,21 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-09 08:00:28",
+    "ultima_vez":  "2026-10-09 08:01:02",
     "arranque":  "2026-10-08 08:44:00",
     "conexion":  "ethernet",
     "procesos":  [
+                     "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "SafeExamBrowser",
+                     "SafeExamBrowser.Client",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
