@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-09 10:31:48",
+    "ultima_vez":  "2026-10-09 10:31:50",
     "arranque":  "2026-10-09 10:30:58",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,11 +10,13 @@
                      "CrossDeviceService",
                      "identity_helper",
                      "ipf_helper",
+                     "M365Copilot",
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64"
+                     "WavesSvc64",
+                     "WhatsApp.Root"
                  ],
     "apagado":  false
 }
