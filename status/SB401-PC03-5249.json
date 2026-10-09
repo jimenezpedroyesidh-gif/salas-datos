@@ -1,10 +1,11 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-09 11:02:02",
+    "ultima_vez":  "2026-10-09 11:22:02",
     "arranque":  "2026-10-08 18:25:19",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
+                     "CefSharp.BrowserSubprocess",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -17,6 +18,8 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "SafeExamBrowser",
+                     "SafeExamBrowser.Client",
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
