@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-09 06:53:08",
+    "ultima_vez":  "2026-10-09 07:02:02",
     "arranque":  "2026-10-08 18:25:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,7 +11,9 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
