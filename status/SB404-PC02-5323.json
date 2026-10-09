@@ -1,12 +1,13 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-09 15:07:03",
+    "ultima_vez":  "2026-10-09 15:27:03",
     "arranque":  "2026-10-08 06:25:46",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "AppVShNotify",
+                     "CalculatorApp",
                      "cef_server",
                      "clangd",
                      "clion64",
@@ -16,6 +17,7 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "fsnotifier",
+                     "full-line-inference",
                      "IDBWM",
                      "ipf_helper",
                      "jetbrainsd",
