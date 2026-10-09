@@ -1,17 +1,16 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-09 10:34:32",
+    "ultima_vez":  "2026-10-09 10:46:03",
     "arranque":  "2026-10-08 08:18:45",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "chrome",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
@@ -23,7 +22,6 @@
                      "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
