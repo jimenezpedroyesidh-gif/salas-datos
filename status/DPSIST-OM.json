@@ -1,6 +1,6 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-09 11:39:02",
+    "ultima_vez":  "2026-10-09 11:59:03",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,6 @@
                      "DefenderSessionHelper",
                      "EEventManager",
                      "Emc.Captiva.WebToolkitHost",
-                     "EXCEL",
                      "FileWatcher",
                      "FUFAXRCV",
                      "igfxEM",
