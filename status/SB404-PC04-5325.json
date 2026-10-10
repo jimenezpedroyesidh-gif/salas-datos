@@ -1,12 +1,13 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-10 08:49:02",
+    "ultima_vez":  "2026-10-10 10:20:52",
     "arranque":  "2026-10-09 18:03:58",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
+                     "cleanmgr",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -17,6 +18,7 @@
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
