@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-09 20:32:02",
+    "ultima_vez":  "2026-10-10 03:08:47",
     "arranque":  "2026-10-09 15:43:39",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
@@ -11,6 +12,7 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
                      "ipf_helper",
                      "jucheck",
                      "jusched",
@@ -20,6 +22,8 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
