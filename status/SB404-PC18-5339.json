@@ -1,15 +1,13 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-10 03:29:45",
-    "arranque":  "2026-10-07 08:05:04",
+    "ultima_vez":  "2026-10-10 08:45:54",
+    "arranque":  "2026-10-07 08:05:01",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
-                     "crashhelper",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "MicrosoftStartFeedProvider",
-                     "msoia",
+                     "MoNotificationUx",
                      "opushutil",
                      "SDXHelper",
                      "ShellHost",
