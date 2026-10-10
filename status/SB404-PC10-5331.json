@@ -1,10 +1,14 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-10 09:09:33",
+    "ultima_vez":  "2026-10-10 09:47:39",
     "arranque":  "2026-10-09 14:14:50",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Acrobat",
+                     "AcroCEF",
                      "ActionsServer",
+                     "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -12,9 +16,8 @@
                      "ipf_helper",
                      "mobsync",
                      "MSOSYNC",
-                     "OSProfileCollector",
                      "RtkAudUService64",
-                     "SecurityHealthHost",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64"
