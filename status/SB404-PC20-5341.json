@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-10 07:54:02",
+    "ultima_vez":  "2026-10-10 08:14:03",
     "arranque":  "2026-10-05 16:04:04",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AcroCEF",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
