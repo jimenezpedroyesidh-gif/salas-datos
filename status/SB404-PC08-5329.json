@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-10 08:35:04",
+    "ultima_vez":  "2026-10-10 08:55:02",
     "arranque":  "2026-10-09 10:28:46",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "ai",
                      "AppActions",
                      "browser_assistant",
                      "chrome",
@@ -17,13 +18,15 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "MSOSYNC",
+                     "olk",
                      "opera",
                      "opera_crashreporter",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WINWORD"
                  ],
     "apagado":  false
 }
