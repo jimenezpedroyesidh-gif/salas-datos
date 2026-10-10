@@ -1,12 +1,17 @@
 {
     "hostname":  "SB404-PC28-3585",
-    "ultima_vez":  "2026-10-09 10:00:46",
+    "ultima_vez":  "2026-10-10 07:40:32",
     "arranque":  "2026-10-09 09:59:54",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
+                     "crashhelper",
+                     "default-browser-agent",
+                     "firefox",
                      "GameInputSvc",
                      "igfxEM",
                      "igfxHK",
+                     "MusNotifyIcon",
                      "SearchProtocolHost"
                  ],
     "apagado":  false
