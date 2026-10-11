@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-11 03:00:07",
+    "ultima_vez":  "2026-10-11 03:24:07",
     "arranque":  "2026-10-09 14:14:50",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,13 +10,12 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
+                     "identity_helper",
                      "ipf_helper",
                      "jusched",
                      "M365Copilot",
                      "msedge",
-                     "msoia",
                      "MSOSYNC",
                      "opushutil",
                      "OSProfileCollector",
