@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-12 12:52:03",
+    "ultima_vez":  "2026-10-12 13:12:02",
     "arranque":  "2026-10-09 15:43:39",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,7 +20,6 @@
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64",
                      "WidgetBoard"
                  ],
     "apagado":  false
