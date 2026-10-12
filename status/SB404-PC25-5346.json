@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-12 15:41:02",
+    "ultima_vez":  "2026-10-12 16:01:03",
     "arranque":  "2026-10-09 18:08:41",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "AppActions",
                      "AppVShNotify",
