@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-13 18:31:17",
-    "arranque":  "2026-10-13 18:30:32",
+    "ultima_vez":  "2026-10-13 18:37:40",
+    "arranque":  "2026-10-13 18:30:31",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -9,8 +9,9 @@
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "msedge",
-                     "SearchProtocolHost"
+                     "sbase",
+                     "soffice",
+                     "soffice.bin"
                  ],
     "apagado":  false
 }
