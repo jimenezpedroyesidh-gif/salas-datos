@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-13 16:32:02",
+    "ultima_vez":  "2026-10-13 16:52:02",
     "arranque":  "2026-10-13 16:19:13",
     "conexion":  "ethernet",
     "procesos":  [
@@ -18,6 +18,7 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
