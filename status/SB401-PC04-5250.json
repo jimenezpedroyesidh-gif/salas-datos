@@ -1,7 +1,7 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-13 10:49:02",
-    "arranque":  "2026-10-09 10:14:06",
+    "ultima_vez":  "2026-10-13 11:09:02",
+    "arranque":  "2026-10-09 10:14:01",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
