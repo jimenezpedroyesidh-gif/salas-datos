@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-13 11:20:02",
+    "ultima_vez":  "2026-10-13 11:40:02",
     "arranque":  "2026-10-13 08:13:06",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,7 +20,6 @@
                      "MicrosoftStartFeedProvider",
                      "mscopilot_proxy",
                      "msedge",
-                     "MSOSYNC",
                      "mysqld",
                      "ONENOTEM",
                      "RtkAudUService64",
