@@ -1,14 +1,20 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-13 11:02:56",
+    "ultima_vez":  "2026-10-13 11:07:43",
     "arranque":  "2026-10-10 07:41:52",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ActionsServer",
+                     "AdobeARM",
                      "AdobeCollabSync",
+                     "chrome",
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
+                     "httpd",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
@@ -18,7 +24,8 @@
                      "ShellHost",
                      "unsecapp",
                      "updater",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "xampp-control"
                  ],
     "apagado":  false
 }
