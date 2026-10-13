@@ -1,19 +1,10 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-13 07:42:10",
+    "ultima_vez":  "2026-10-13 08:00:33",
     "arranque":  "2026-10-01 15:32:30",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
-                     "igfxEM",
-                     "igfxHK",
-                     "igfxTray",
-                     "msedge",
-                     "MSOSYNC",
-                     "notepad",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM"
+                     "notepad"
                  ],
-    "apagado":  false
+    "apagado":  true
 }
