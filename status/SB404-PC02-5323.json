@@ -1,16 +1,26 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-13 10:06:02",
+    "ultima_vez":  "2026-10-13 10:07:03",
     "arranque":  "2026-10-13 10:05:15",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "firefox",
                      "ipf_helper",
+                     "jusched",
+                     "MicrosoftStartFeedProvider",
+                     "msedge",
+                     "MSOSYNC",
+                     "ollama",
+                     "ollama app",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
+                     "WavesSvc64",
                      "WidgetBoard"
                  ],
     "apagado":  false
