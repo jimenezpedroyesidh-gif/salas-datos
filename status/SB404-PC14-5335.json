@@ -1,27 +1,21 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-13 11:48:03",
+    "ultima_vez":  "2026-10-13 16:16:46",
     "arranque":  "2026-10-13 11:10:13",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "dbeaver",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "httpd",
                      "IDBWM",
                      "ipf_helper",
                      "jusched",
-                     "MSOSYNC",
-                     "mysqld",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64",
-                     "xampp-control"
+                     "WavesSvc64"
                  ],
     "apagado":  false
 }
