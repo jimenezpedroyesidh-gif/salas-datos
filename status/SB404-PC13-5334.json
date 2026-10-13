@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-13 07:20:02",
+    "ultima_vez":  "2026-10-13 07:40:02",
     "arranque":  "2026-10-08 06:24:26",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,6 +8,7 @@
                      "AppActions",
                      "AppVShNotify",
                      "chrome",
+                     "cmd",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -19,12 +20,15 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "MSOSYNC",
                      "Notepad",
                      "ONENOTEM",
+                     "OpenConsole",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsTerminal"
                  ],
     "apagado":  false
 }
