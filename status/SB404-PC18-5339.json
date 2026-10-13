@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-13 16:31:02",
+    "ultima_vez":  "2026-10-13 16:51:02",
     "arranque":  "2026-10-13 16:20:07",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,8 +14,8 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
