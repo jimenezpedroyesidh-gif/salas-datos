@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-13 11:08:12",
+    "ultima_vez":  "2026-10-13 11:13:32",
     "arranque":  "2026-10-13 11:07:20",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,7 +8,15 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "GameBar",
+                     "GameBarFTServer",
+                     "IDBWM",
                      "ipf_helper",
+                     "java",
+                     "javaw",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
