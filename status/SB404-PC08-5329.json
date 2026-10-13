@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-13 16:17:28",
+    "ultima_vez":  "2026-10-13 16:22:50",
     "arranque":  "2026-10-09 10:28:46",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,9 +11,8 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "ipf_helper",
-                     "msedge",
-                     "opera",
-                     "opera_crashreporter",
+                     "MicrosoftStartFeedProvider",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
