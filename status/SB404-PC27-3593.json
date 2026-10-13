@@ -1,14 +1,20 @@
 {
     "hostname":  "SB404-PC27-3593",
-    "ultima_vez":  "2026-10-13 11:11:50",
+    "ultima_vez":  "2026-10-13 11:14:16",
     "arranque":  "2026-09-28 14:43:27",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
                      "dbeaver",
                      "DefenderSessionHelper",
+                     "httpd",
                      "igfxEM",
                      "igfxHK",
-                     "igfxTray"
+                     "igfxTray",
+                     "msedge",
+                     "MSOSYNC",
+                     "mysqld",
+                     "xampp-control"
                  ],
     "apagado":  false
 }
