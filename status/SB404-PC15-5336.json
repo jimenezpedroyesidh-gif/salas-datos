@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-13 11:16:36",
+    "ultima_vez":  "2026-10-13 16:19:57",
     "arranque":  "2026-10-05 16:04:59",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,11 +19,13 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "rvlkl",
+                     "SDXHelper",
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
                      "StoreDesktopExtension",
                      "unsecapp",
+                     "updater",
                      "WavesSvc64",
                      "WidgetBoard"
                  ],
