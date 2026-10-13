@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-13 11:17:02",
+    "ultima_vez":  "2026-10-13 11:37:02",
     "arranque":  "2026-10-10 07:41:52",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,10 +21,8 @@
                      "mercury",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "MSOSYNC",
                      "mysqld",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard",
