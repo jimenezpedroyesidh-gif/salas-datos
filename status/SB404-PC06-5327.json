@@ -1,12 +1,10 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-09 11:33:03",
+    "ultima_vez":  "2026-10-13 10:02:37",
     "arranque":  "2026-10-06 14:10:01",
     "conexion":  "ethernet",
     "procesos":  [
-                     "Acrobat",
                      "AdobeCollabSync",
-                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,14 +12,10 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
-                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
-                     "soffice",
-                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
