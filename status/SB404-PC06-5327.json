@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-13 11:02:15",
+    "ultima_vez":  "2026-10-13 11:07:42",
     "arranque":  "2026-10-06 14:09:58",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,15 +8,21 @@
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "dbeaver",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "httpd",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
+                     "MSOSYNC",
+                     "mysqld",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "xampp-control"
                  ],
     "apagado":  false
 }
