@@ -1,18 +1,19 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-13 14:12:38",
+    "ultima_vez":  "2026-10-13 14:15:08",
     "arranque":  "2026-09-29 20:21:55",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
                      "DefenderSessionHelper",
                      "EEventManager",
+                     "Emc.Captiva.WebToolkitHost",
                      "FileWatcher",
                      "FUFAXRCV",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "playitd-tray",
-                     "StoreDesktopExtension"
+                     "playitd-tray"
                  ],
     "apagado":  false
 }
