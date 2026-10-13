@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-13 06:21:03",
+    "ultima_vez":  "2026-10-13 06:41:02",
     "arranque":  "2026-10-09 18:08:41",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "AppActions",
                      "AppVShNotify",
@@ -21,6 +20,8 @@
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
+                     "VBoxSVC",
+                     "VirtualBox",
                      "WidgetBoard"
                  ],
     "apagado":  false
