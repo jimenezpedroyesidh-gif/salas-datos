@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-13 07:01:30",
+    "ultima_vez":  "2026-10-13 07:21:21",
     "arranque":  "2026-09-30 15:06:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,6 +10,8 @@
                      "jucheck",
                      "jusched",
                      "msedge",
+                     "MSOSYNC",
+                     "notepad",
                      "VBoxSVC",
                      "VirtualBox",
                      "VirtualBoxVM"
