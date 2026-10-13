@@ -1,16 +1,19 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-13 18:02:02",
+    "ultima_vez":  "2026-10-13 18:22:02",
     "arranque":  "2026-10-01 15:32:30",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
                      "CompPkgSrv",
                      "httpd",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "MSOSYNC",
                      "mysqld",
+                     "sbase",
+                     "soffice",
+                     "soffice.bin",
                      "xampp-control"
                  ],
     "apagado":  false
