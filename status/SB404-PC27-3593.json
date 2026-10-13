@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC27-3593",
-    "ultima_vez":  "2026-10-13 06:26:57",
+    "ultima_vez":  "2026-10-13 06:40:06",
     "arranque":  "2026-09-28 14:43:27",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
                      "CompPkgSrv",
                      "crashhelper",
                      "DefenderSessionHelper",
@@ -13,7 +12,8 @@
                      "igfxHK",
                      "igfxTray",
                      "MSOSYNC",
-                     "reader_sl"
+                     "VBoxSVC",
+                     "VirtualBox"
                  ],
     "apagado":  false
 }
