@@ -1,10 +1,12 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-13 11:10:40",
+    "ultima_vez":  "2026-10-13 11:22:08",
     "arranque":  "2026-10-01 15:32:30",
     "conexion":  "ethernet",
     "procesos":  [
                      "chrome",
+                     "CompPkgSrv",
+                     "dbeaver",
                      "httpd",
                      "igfxEM",
                      "igfxHK",
