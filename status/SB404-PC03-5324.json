@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-13 10:08:03",
+    "ultima_vez":  "2026-10-13 10:28:03",
     "arranque":  "2026-10-09 08:04:22",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,7 +12,7 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
-                     "iexpress",
+                     "identity_helper",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
