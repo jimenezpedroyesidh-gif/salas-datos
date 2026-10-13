@@ -1,19 +1,16 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-13 07:41:21",
+    "ultima_vez":  "2026-10-13 08:01:06",
     "arranque":  "2026-09-30 15:06:36",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
                      "AdobeCollabSync",
                      "DefenderSessionHelper",
+                     "identity_helper",
                      "jucheck",
                      "jusched",
-                     "msedge",
-                     "notepad",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM"
+                     "msedge"
                  ],
     "apagado":  false
 }
