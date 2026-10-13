@@ -1,13 +1,10 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-13 08:01:02",
+    "ultima_vez":  "2026-10-13 10:07:15",
     "arranque":  "2026-10-09 14:16:46",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "AppActions",
-                     "AppVShNotify",
-                     "CalculatorApp",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,17 +12,10 @@
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
-                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "mscopilot_proxy",
-                     "msedge",
-                     "Notepad",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
