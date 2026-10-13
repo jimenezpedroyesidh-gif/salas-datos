@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-13 18:11:03",
+    "ultima_vez":  "2026-10-13 18:31:06",
     "arranque":  "2026-10-08 07:57:55",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppVShNotify",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -15,11 +16,13 @@
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
+                     "sbase",
                      "ShellHost",
-                     "StoreDesktopExtension",
+                     "soffice",
+                     "soffice.bin",
+                     "SoftLandingTask",
                      "unsecapp",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
