@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-13 11:27:02",
+    "ultima_vez":  "2026-10-13 11:47:02",
     "arranque":  "2026-10-09 06:23:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -26,7 +26,6 @@
                      "soffice",
                      "soffice.bin",
                      "unsecapp",
-                     "WavesSvc64",
                      "WidgetBoard"
                  ],
     "apagado":  false
