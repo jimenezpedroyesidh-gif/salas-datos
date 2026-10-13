@@ -1,24 +1,31 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-13 08:24:03",
+    "ultima_vez":  "2026-10-13 08:29:03",
     "arranque":  "2026-10-05 16:05:05",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
                      "chrome",
+                     "cmd",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "OpenConsole",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsTerminal"
                  ],
     "apagado":  false
 }
