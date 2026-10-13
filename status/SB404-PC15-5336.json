@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-13 09:14:18",
-    "arranque":  "2026-10-05 16:05:05",
+    "ultima_vez":  "2026-10-13 11:16:36",
+    "arranque":  "2026-10-05 16:04:59",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
@@ -22,7 +22,7 @@
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
-                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
