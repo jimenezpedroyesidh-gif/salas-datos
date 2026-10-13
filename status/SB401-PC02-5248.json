@@ -1,12 +1,14 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-13 16:46:03",
+    "ultima_vez":  "2026-10-13 17:06:03",
     "arranque":  "2026-10-13 10:39:22",
     "conexion":  "ethernet",
     "procesos":  [
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "jusched",
                      "mscopilot_proxy",
+                     "opera",
+                     "opera_crashreporter",
                      "ShellHost",
                      "unsecapp"
                  ],
