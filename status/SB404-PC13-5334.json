@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-13 06:40:04",
-    "arranque":  "2026-10-08 06:24:29",
+    "ultima_vez":  "2026-10-13 07:00:02",
+    "arranque":  "2026-10-08 06:24:26",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -19,11 +19,11 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "MSOSYNC",
                      "ONENOTEM",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64",
                      "WidgetBoard"
                  ],
     "apagado":  false
