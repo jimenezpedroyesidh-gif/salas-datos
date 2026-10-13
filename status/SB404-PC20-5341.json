@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-13 18:34:03",
+    "ultima_vez":  "2026-10-13 18:54:03",
     "arranque":  "2026-10-13 18:00:06",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,8 +19,7 @@
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
-                     "unsecapp",
-                     "WavesSvc64"
+                     "unsecapp"
                  ],
     "apagado":  false
 }
