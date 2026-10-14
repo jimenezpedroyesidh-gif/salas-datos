@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-13 20:49:02",
+    "ultima_vez":  "2026-10-14 00:14:29",
     "arranque":  "2026-10-05 16:04:59",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AppActions",
                      "AppVShNotify",
                      "chrome",
@@ -21,6 +22,7 @@
                      "rvlkl",
                      "SDXHelper",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
