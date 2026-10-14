@@ -1,11 +1,19 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-14 14:29:28",
-    "arranque":  "2026-10-14 14:29:02",
+    "ultima_vez":  "2026-10-14 14:31:22",
+    "arranque":  "2026-10-14 14:30:33",
     "conexion":  "ethernet",
     "procesos":  [
+                     "crashhelper",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "firefox",
+                     "ipf_helper",
                      "RtkAudUService64",
-                     "unsecapp"
+                     "ShellHost",
+                     "unsecapp",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
