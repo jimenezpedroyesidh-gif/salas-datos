@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-14 11:30:34",
+    "ultima_vez":  "2026-10-14 11:30:41",
     "arranque":  "2026-10-14 11:29:47",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,6 @@
                      "DefenderSessionHelper",
                      "ipf_helper",
                      "RtkAudUService64",
-                     "rundll32",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
