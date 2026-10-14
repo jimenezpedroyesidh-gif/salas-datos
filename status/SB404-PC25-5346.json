@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-14 10:19:07",
+    "ultima_vez":  "2026-10-14 10:21:03",
     "arranque":  "2026-10-14 10:12:52",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,12 +9,10 @@
                      "CodeSetup-stable-16507d91be0dc1ce4f94c04d4d0430210b8685d9",
                      "CodeSetup-stable-16507d91be0dc1ce4f94c04d4d0430210b8685d9.tmp",
                      "cpptools",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
@@ -23,10 +21,8 @@
                      "pet",
                      "powershell",
                      "RtkAudUService64",
-                     "rundll32",
                      "ShellHost",
                      "unsecapp",
-                     "updater",
                      "Updates",
                      "WidgetBoard"
                  ],
