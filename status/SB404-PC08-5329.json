@@ -11,6 +11,7 @@
                      "DefenderSessionHelper",
                      "ipf_helper",
                      "opera_autoupdate",
+                     "opera_crashreporter",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
