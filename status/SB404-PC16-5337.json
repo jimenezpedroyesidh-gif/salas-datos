@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC16-5337",
-    "ultima_vez":  "2026-10-14 08:10:04",
+    "ultima_vez":  "2026-10-14 08:30:05",
     "arranque":  "2026-10-14 08:07:27",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "crashhelper",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
@@ -12,9 +13,12 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "MoNotificationUx",
+                     "netbeans64",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64"
