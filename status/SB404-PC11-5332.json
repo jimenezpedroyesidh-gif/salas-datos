@@ -1,12 +1,11 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-14 08:12:30",
+    "ultima_vez":  "2026-10-14 08:18:03",
     "arranque":  "2026-10-14 08:08:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "chrome",
-                     "cmd",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,7 +14,7 @@
                      "IGCC",
                      "IGCCTray",
                      "ipf_helper",
-                     "java",
+                     "jucheck",
                      "jusched",
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
