@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-13 16:29:02",
+    "ultima_vez":  "2026-10-13 20:43:28",
     "arranque":  "2026-10-05 16:04:59",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,6 +17,7 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "opushutil",
                      "RtkAudUService64",
                      "rvlkl",
                      "SDXHelper",
