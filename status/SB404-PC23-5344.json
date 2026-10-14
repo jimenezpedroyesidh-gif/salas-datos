@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-14 09:38:03",
+    "ultima_vez":  "2026-10-14 09:58:04",
     "arranque":  "2026-10-14 08:05:05",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,7 +12,6 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
-                     "MicrosoftStartFeedProvider",
                      "netbeans64",
                      "RtkAudUService64",
                      "SDXHelper",
