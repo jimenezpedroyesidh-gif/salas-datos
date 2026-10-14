@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-14 16:29:02",
+    "ultima_vez":  "2026-10-14 18:26:47",
     "arranque":  "2026-10-09 10:14:01",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,7 +14,9 @@
                      "jucheck",
                      "jusched",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WindowsPackageManagerServer"
