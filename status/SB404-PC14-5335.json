@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-14 14:28:02",
+    "ultima_vez":  "2026-10-14 14:48:02",
     "arranque":  "2026-10-14 14:20:55",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -13,7 +13,7 @@
                      "ipf_helper",
                      "jucheck",
                      "jusched",
-                     "MSOSYNC",
+                     "msedge",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
