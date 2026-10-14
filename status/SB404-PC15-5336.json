@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-14 00:32:15",
+    "ultima_vez":  "2026-10-14 01:05:41",
     "arranque":  "2026-10-14 00:21:14",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,7 +16,9 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "rvlkl",
+                     "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
                      "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
