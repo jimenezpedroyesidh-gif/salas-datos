@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-14 14:31:29",
+    "ultima_vez":  "2026-10-14 14:40:25",
     "arranque":  "2026-10-14 14:30:33",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,10 +8,17 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
                      "firefox",
+                     "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "msedge",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
