@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-14 10:38:05",
+    "ultima_vez":  "2026-10-14 10:58:03",
     "arranque":  "2026-10-14 10:08:49",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,8 +11,6 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "Frontline 1942",
-                     "GameBar",
-                     "GameBarFTServer",
                      "GameBarPresenceWriter",
                      "IDBWM",
                      "IGCC",
@@ -29,7 +27,6 @@
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
-                     "XboxGameBarWidgets",
                      "XboxPcAppFT"
                  ],
     "apagado":  false
