@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-13 22:52:34",
+    "ultima_vez":  "2026-10-13 22:55:04",
     "arranque":  "2026-10-09 10:28:41",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "MicrosoftStartFeedProvider",
@@ -13,7 +12,6 @@
                      "ShellHost",
                      "soffice.bin",
                      "SoftLandingTask",
-                     "StoreDesktopExtension",
                      "unsecapp"
                  ],
     "apagado":  false
