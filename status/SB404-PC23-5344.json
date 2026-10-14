@@ -1,21 +1,18 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-14 05:37:36",
+    "ultima_vez":  "2026-10-14 05:38:02",
     "arranque":  "2026-10-01 05:34:17",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "opushutil",
                      "RtkAudUService64",
                      "sbase",
                      "SDXHelper",
@@ -24,8 +21,8 @@
                      "soffice.bin",
                      "StoreDesktopExtension",
                      "unsecapp",
-                     "updater",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
