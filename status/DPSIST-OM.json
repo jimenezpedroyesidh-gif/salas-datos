@@ -1,9 +1,11 @@
 {
     "hostname":  "DPSIST-OM",
-    "ultima_vez":  "2026-10-14 10:41:02",
+    "ultima_vez":  "2026-10-14 10:59:03",
     "arranque":  "2026-09-29 20:21:56",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
+                     "CompPkgSrv",
                      "DefenderSessionHelper",
                      "EEventManager",
                      "Emc.Captiva.WebToolkitHost",
