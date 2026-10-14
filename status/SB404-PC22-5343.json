@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-13 20:36:02",
-    "arranque":  "2026-10-13 16:15:48",
+    "ultima_vez":  "2026-10-13 20:56:03",
+    "arranque":  "2026-10-13 16:15:43",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
