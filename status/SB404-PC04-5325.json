@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-14 14:19:01",
+    "ultima_vez":  "2026-10-14 14:29:03",
     "arranque":  "2026-10-14 10:22:32",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,11 +15,8 @@
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
