@@ -1,10 +1,22 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-14 15:55:06",
-    "arranque":  "2026-10-14 14:20:55",
+    "ultima_vez":  "2026-10-15 06:50:33",
+    "arranque":  "2026-10-15 06:46:17",
     "conexion":  "ethernet",
     "procesos":  [
-
+                     "chrome",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "ipf_helper",
+                     "jusched",
+                     "MSOSYNC",
+                     "RtkAudUService64",
+                     "rvlkl",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
