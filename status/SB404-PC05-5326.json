@@ -1,11 +1,10 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-15 09:31:03",
+    "ultima_vez":  "2026-10-15 09:51:04",
     "arranque":  "2026-10-15 08:16:10",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,7 +15,7 @@
                      "MoNotificationUx",
                      "mscopilot_proxy",
                      "msedge",
-                     "Notepad",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
