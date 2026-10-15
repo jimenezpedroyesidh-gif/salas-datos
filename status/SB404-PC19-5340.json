@@ -1,13 +1,12 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-15 11:12:03",
+    "ultima_vez":  "2026-10-15 11:32:04",
     "arranque":  "2026-10-14 10:08:59",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
-                     "cmd",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -17,15 +16,12 @@
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
-                     "Notepad",
-                     "OpenConsole",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "WindowsTerminal"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
