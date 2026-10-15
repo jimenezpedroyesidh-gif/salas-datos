@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-15 06:31:02",
+    "ultima_vez":  "2026-10-15 06:51:04",
     "arranque":  "2026-10-14 08:11:36",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -15,12 +16,12 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "prevhost",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
