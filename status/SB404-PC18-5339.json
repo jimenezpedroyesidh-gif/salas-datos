@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-15 06:29:03",
+    "ultima_vez":  "2026-10-15 06:31:02",
     "arranque":  "2026-10-14 08:11:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,12 +12,15 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
