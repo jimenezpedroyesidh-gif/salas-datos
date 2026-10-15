@@ -1,12 +1,11 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-15 09:53:04",
+    "ultima_vez":  "2026-10-15 10:13:04",
     "arranque":  "2026-10-15 08:26:32",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -17,7 +16,6 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "SnippingTool",
                      "unsecapp",
                      "WidgetBoard",
                      "WindowsPackageManagerServer"
