@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-15 08:31:03",
+    "ultima_vez":  "2026-10-15 08:51:03",
     "arranque":  "2026-10-15 08:16:10",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,9 +16,9 @@
                      "MoNotificationUx",
                      "mscopilot_proxy",
                      "msedge",
-                     "MSOSYNC",
                      "Notepad",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
