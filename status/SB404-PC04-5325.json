@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-15 11:29:02",
+    "ultima_vez":  "2026-10-15 11:49:02",
     "arranque":  "2026-10-15 08:10:40",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,8 +12,6 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "EdgeGameAssist",
-                     "GameBar",
-                     "GameBarFTServer",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
@@ -26,7 +24,6 @@
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard",
-                     "XboxGameBarWidgets",
                      "XboxPcApp",
                      "XboxPcAppFT",
                      "XboxPcTray"
