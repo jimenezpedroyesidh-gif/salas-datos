@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-15 07:05:04",
+    "ultima_vez":  "2026-10-15 07:25:05",
     "arranque":  "2026-10-13 18:30:27",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,9 +10,7 @@
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "msedge",
-                     "soffice",
-                     "soffice.bin"
+                     "msedge"
                  ],
     "apagado":  false
 }
