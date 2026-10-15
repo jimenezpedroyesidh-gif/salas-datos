@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-15 10:04:19",
+    "ultima_vez":  "2026-10-15 10:21:02",
     "arranque":  "2026-10-15 08:15:09",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -12,8 +13,10 @@
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
