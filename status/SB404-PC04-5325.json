@@ -1,32 +1,23 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-15 11:49:02",
+    "ultima_vez":  "2026-10-15 18:49:58",
     "arranque":  "2026-10-15 08:10:40",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "EdgeGameAssist",
                      "IDBWM",
                      "ipf_helper",
-                     "jucheck",
                      "jusched",
-                     "MicrosoftStartFeedProvider",
                      "msedge",
-                     "Notepad",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "XboxPcApp",
-                     "XboxPcAppFT",
-                     "XboxPcTray"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
