@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-15 16:20:11",
+    "ultima_vez":  "2026-10-15 16:27:03",
     "arranque":  "2026-10-15 08:19:42",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,14 +20,11 @@
                      "ollama",
                      "ollama app",
                      "RtkAudUService64",
-                     "rundll32",
                      "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
