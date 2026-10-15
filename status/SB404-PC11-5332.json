@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-15 06:38:04",
+    "ultima_vez":  "2026-10-15 06:58:03",
     "arranque":  "2026-10-15 06:26:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,9 +19,11 @@
                      "jusched",
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
-                     "MoNotificationUx",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
