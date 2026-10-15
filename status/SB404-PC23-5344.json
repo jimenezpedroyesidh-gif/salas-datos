@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-15 10:58:03",
+    "ultima_vez":  "2026-10-15 11:18:02",
     "arranque":  "2026-10-15 10:03:35",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
                      "chrome",
+                     "cmd",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -14,11 +15,14 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "OpenConsole",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "timeout",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsTerminal"
                  ],
     "apagado":  false
 }
