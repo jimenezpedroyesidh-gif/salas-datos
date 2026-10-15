@@ -1,15 +1,18 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-15 08:09:58",
+    "ultima_vez":  "2026-10-15 08:24:04",
     "arranque":  "2026-10-13 10:08:40",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
                      "GameInputRedistService",
                      "GameInputSvc",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "jusched"
+                     "jucheck",
+                     "jusched",
+                     "MSOSYNC"
                  ],
     "apagado":  false
 }
