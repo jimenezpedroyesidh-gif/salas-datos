@@ -1,13 +1,15 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-15 08:55:02",
+    "ultima_vez":  "2026-10-15 09:15:02",
     "arranque":  "2026-10-15 08:10:39",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "choice",
                      "chrome",
                      "CHXSmartScreen",
+                     "cmd",
                      "Code",
                      "CodeSetup-stable-6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1",
                      "CodeSetup-stable-6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1.tmp",
@@ -20,11 +22,13 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "OpenConsole",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsTerminal"
                  ],
     "apagado":  false
 }
