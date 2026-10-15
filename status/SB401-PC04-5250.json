@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-15 07:29:03",
+    "ultima_vez":  "2026-10-15 07:49:03",
     "arranque":  "2026-10-09 10:14:01",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "jusched",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SnippingTool",
                      "unsecapp",
                      "WavesSvc64"
                  ],
