@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-15 07:27:02",
+    "ultima_vez":  "2026-10-15 07:47:03",
     "arranque":  "2026-10-15 06:39:57",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,6 +9,7 @@
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "dbeaver",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
