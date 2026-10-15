@@ -1,11 +1,9 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-15 10:23:33",
+    "ultima_vez":  "2026-10-15 10:27:03",
     "arranque":  "2026-10-15 10:18:35",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AcroCEF",
-                     "ActionsServer",
                      "AdobeCollabSync",
                      "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
@@ -20,7 +18,6 @@
                      "SafeExamBrowser",
                      "SafeExamBrowser.Client",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
