@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-15 16:11:03",
+    "ultima_vez":  "2026-10-15 16:31:03",
     "arranque":  "2026-10-15 10:32:47",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "brave",
                      "BraveCrashHandler",
                      "BraveCrashHandler64",
                      "CrossDeviceResume",
@@ -15,7 +16,9 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "mmc",
                      "MoNotificationUx",
+                     "mscopilot_proxy",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
