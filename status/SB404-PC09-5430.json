@@ -1,12 +1,10 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-14 15:57:03",
+    "ultima_vez":  "2026-10-15 06:27:29",
     "arranque":  "2026-10-13 18:09:30",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,14 +13,10 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "msedge",
                      "RtkAudUService64",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer",
-                     "WinStore.App"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
