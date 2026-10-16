@@ -1,14 +1,14 @@
 {
     "hostname":  "SB404-PC28-3585",
-    "ultima_vez":  "2026-10-15 09:24:08",
+    "ultima_vez":  "2026-10-16 18:02:47",
     "arranque":  "2026-10-10 07:39:03",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
                      "GameInputSvc",
                      "igfxEM",
                      "igfxHK",
-                     "msedge"
+                     "mobsync",
+                     "MusNotificationUx"
                  ],
     "apagado":  false
 }
