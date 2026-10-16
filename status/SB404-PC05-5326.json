@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-16 08:31:03",
+    "ultima_vez":  "2026-10-16 08:51:02",
     "arranque":  "2026-10-16 08:18:35",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,6 +15,7 @@
                      "MicrosoftStartFeedProvider",
                      "netbeans64",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
