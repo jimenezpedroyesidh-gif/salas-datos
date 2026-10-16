@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-16 10:50:56",
+    "ultima_vez":  "2026-10-16 10:50:55",
     "arranque":  "2026-10-16 10:50:07",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,6 +14,7 @@
                      "opera_autoupdate",
                      "opera_crashreporter",
                      "RtkAudUService64",
+                     "runonce",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
