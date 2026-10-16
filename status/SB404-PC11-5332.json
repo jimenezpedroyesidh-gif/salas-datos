@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-16 09:18:02",
+    "ultima_vez":  "2026-10-16 09:38:02",
     "arranque":  "2026-10-15 06:26:35",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "IGCC",
                      "IGCCTray",
                      "ipf_helper",
+                     "java",
                      "jucheck",
                      "jusched",
                      "M365Copilot",
