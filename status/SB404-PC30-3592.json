@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC30-3592",
-    "ultima_vez":  "2026-10-16 06:34:04",
-    "arranque":  "2026-10-16 06:30:48",
+    "ultima_vez":  "2026-10-16 06:45:05",
+    "arranque":  "2026-10-16 06:30:46",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -10,7 +10,8 @@
                      "igfxHK",
                      "igfxTray",
                      "msedge",
-                     "SearchProtocolHost"
+                     "VBoxSVC",
+                     "VirtualBoxVM"
                  ],
     "apagado":  false
 }
