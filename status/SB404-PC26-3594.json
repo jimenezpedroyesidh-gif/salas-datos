@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-16 11:02:02",
+    "ultima_vez":  "2026-10-16 11:22:04",
     "arranque":  "2026-10-01 15:32:25",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,6 +11,7 @@
                      "igfxHK",
                      "igfxTray",
                      "mobsync",
+                     "MSOSYNC",
                      "WINPROJ"
                  ],
     "apagado":  false
