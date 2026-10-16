@@ -1,9 +1,16 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-16 14:18:02",
+    "ultima_vez":  "2026-10-16 14:38:03",
     "arranque":  "2026-10-15 10:03:35",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
+                     "Code",
+                     "CodeSetup-stable-6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1",
+                     "CodeSetup-stable-6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1.tmp",
+                     "cpptools",
+                     "cpptools-srv",
+                     "cpptools-srv2",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -12,8 +19,8 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
