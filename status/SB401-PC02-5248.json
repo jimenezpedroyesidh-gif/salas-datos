@@ -1,12 +1,12 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-16 10:44:00",
+    "ultima_vez":  "2026-10-16 10:46:02",
     "arranque":  "2026-10-16 10:40:37",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "AdobeCollabSync",
                      "browser_assistant",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -16,7 +16,6 @@
                      "MoNotificationUx",
                      "msedge",
                      "opera",
-                     "opera_autoupdate",
                      "opera_crashreporter",
                      "RtkAudUService64",
                      "ShellHost",
