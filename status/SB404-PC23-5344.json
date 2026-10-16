@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-16 14:11:53",
+    "ultima_vez":  "2026-10-16 14:17:20",
     "arranque":  "2026-10-15 10:03:35",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ActionsServer",
+                     "AdobeARM",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -12,8 +14,11 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
