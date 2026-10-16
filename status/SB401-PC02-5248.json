@@ -1,15 +1,33 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-16 06:35:38",
+    "ultima_vez":  "2026-10-16 06:40:46",
     "arranque":  "2026-10-16 06:34:50",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Acrobat",
+                     "AcroCEF",
+                     "AdobeCollabSync",
+                     "browser_assistant",
+                     "chrome",
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "default-browser-agent",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
+                     "IDBWM",
                      "ipf_helper",
+                     "jusched",
+                     "MoNotificationUx",
+                     "msedge",
+                     "opera_autoupdate",
+                     "opushutil",
+                     "pingsender",
                      "RtkAudUService64",
                      "ShellHost",
-                     "unsecapp"
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WhatsApp.Root"
                  ],
     "apagado":  false
 }
