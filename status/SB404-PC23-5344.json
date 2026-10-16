@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-16 06:58:02",
+    "ultima_vez":  "2026-10-16 07:18:02",
     "arranque":  "2026-10-15 10:03:35",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,6 +12,7 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "Notepad",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
