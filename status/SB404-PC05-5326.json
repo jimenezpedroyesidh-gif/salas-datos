@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-16 07:31:03",
+    "ultima_vez":  "2026-10-16 07:51:03",
     "arranque":  "2026-10-16 06:00:24",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,8 +16,6 @@
                      "SDXHelper",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
                      "WidgetBoard",
                      "WindowsPackageManagerServer"
                  ],
