@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-16 06:41:02",
+    "ultima_vez":  "2026-10-16 07:01:03",
     "arranque":  "2026-10-15 08:15:09",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,9 +14,11 @@
                      "ipf_helper",
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "msedge",
                      "Notepad",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "VBoxSVC",
