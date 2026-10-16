@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-16 08:26:02",
+    "ultima_vez":  "2026-10-16 08:46:02",
     "arranque":  "2026-10-16 06:21:01",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,7 +19,6 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "MSOSYNC",
                      "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
