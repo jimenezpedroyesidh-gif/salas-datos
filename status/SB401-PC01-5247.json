@@ -1,12 +1,11 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-16 06:47:03",
+    "ultima_vez":  "2026-10-16 07:07:04",
     "arranque":  "2026-10-16 06:36:12",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,7 +14,9 @@
                      "ipf_helper",
                      "m365copilot_autostarter",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
