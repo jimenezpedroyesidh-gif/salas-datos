@@ -1,9 +1,10 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-16 08:22:53",
+    "ultima_vez":  "2026-10-16 08:28:19",
     "arranque":  "2026-10-16 07:29:30",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ActionsServer",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -11,7 +12,9 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
