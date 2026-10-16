@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-16 15:33:02",
+    "ultima_vez":  "2026-10-16 15:53:02",
     "arranque":  "2026-10-15 08:26:29",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,6 +20,7 @@
                      "jetbrainsd",
                      "MicrosoftStartFeedProvider",
                      "msedge",
+                     "MSOSYNC",
                      "Rider.Backend",
                      "RtkAudUService64",
                      "SDXHelper",
