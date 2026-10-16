@@ -1,21 +1,10 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-16 07:30:20",
+    "ultima_vez":  "2026-10-16 07:40:31",
     "arranque":  "2026-10-16 07:29:30",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
-                     "CrossDeviceResume",
-                     "CrossDeviceService",
-                     "DefenderSessionHelper",
-                     "ipf_helper",
-                     "jusched",
-                     "RtkAudUService64",
-                     "ShellHost",
-                     "unsecapp",
-                     "updater",
-                     "WavesSvc64",
-                     "WidgetBoard"
+
                  ],
-    "apagado":  false
+    "apagado":  true
 }
