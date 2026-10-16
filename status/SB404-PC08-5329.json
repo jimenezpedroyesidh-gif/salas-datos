@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-16 10:50:55",
+    "ultima_vez":  "2026-10-16 10:55:02",
     "arranque":  "2026-10-16 10:50:07",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,12 +9,14 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
                      "ipf_helper",
-                     "opera",
-                     "opera_autoupdate",
-                     "opera_crashreporter",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "msedge",
+                     "MSOSYNC",
                      "RtkAudUService64",
-                     "runonce",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
