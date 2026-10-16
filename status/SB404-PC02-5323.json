@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-16 15:32:35",
+    "ultima_vez":  "2026-10-16 15:32:36",
     "arranque":  "2026-10-16 15:31:47",
     "conexion":  "ethernet",
     "procesos":  [
@@ -13,6 +13,7 @@
                      "MoNotificationUx",
                      "msedge",
                      "RtkAudUService64",
+                     "runonce",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
