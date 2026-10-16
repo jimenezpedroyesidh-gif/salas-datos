@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-16 08:03:32",
+    "ultima_vez":  "2026-10-16 08:08:59",
     "arranque":  "2026-10-15 10:32:47",
     "conexion":  "ethernet",
     "procesos":  [
@@ -12,8 +12,11 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
