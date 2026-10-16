@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-16 06:48:02",
+    "ultima_vez":  "2026-10-16 07:08:03",
     "arranque":  "2026-10-15 06:46:17",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,7 +8,6 @@
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "DataExchangeHost",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
@@ -16,6 +15,7 @@
                      "jucheck",
                      "jusched",
                      "MSOSYNC",
+                     "Notepad",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
