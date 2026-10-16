@@ -1,11 +1,10 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-16 08:28:19",
+    "ultima_vez":  "2026-10-16 08:42:03",
     "arranque":  "2026-10-16 07:29:30",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
-                     "chrome",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -17,6 +16,7 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
