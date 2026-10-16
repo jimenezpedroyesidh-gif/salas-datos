@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-16 08:04:15",
+    "ultima_vez":  "2026-10-16 08:04:12",
     "arranque":  "2026-10-16 08:03:23",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,9 @@
                      "DefenderSessionHelper",
                      "ipf_helper",
                      "jusched",
+                     "msedge",
                      "RtkAudUService64",
+                     "runonce",
                      "ShellHost",
                      "unsecapp",
                      "updater",
