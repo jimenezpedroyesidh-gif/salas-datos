@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-16 14:33:04",
+    "ultima_vez":  "2026-10-16 14:53:02",
     "arranque":  "2026-10-15 08:26:29",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,6 +14,7 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "fsnotifier",
+                     "full-line-inference",
                      "IDBWM",
                      "ipf_helper",
                      "jetbrainsd",
