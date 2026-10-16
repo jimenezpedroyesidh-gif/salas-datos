@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-16 06:27:41",
+    "ultima_vez":  "2026-10-16 06:28:02",
     "arranque":  "2026-10-15 10:19:47",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "unsecapp",
                      "VBoxSVC",
                      "VirtualBox",
+                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
