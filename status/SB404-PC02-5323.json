@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-16 15:47:05",
+    "ultima_vez":  "2026-10-16 16:07:03",
     "arranque":  "2026-10-16 15:31:47",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "AppActions",
                      "chrome",
                      "cmd",
