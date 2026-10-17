@@ -1,12 +1,11 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-16 19:12:02",
+    "ultima_vez":  "2026-10-16 19:32:02",
     "arranque":  "2026-10-16 18:02:03",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -20,6 +19,9 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
+                     "swriter",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
