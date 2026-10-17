@@ -1,31 +1,10 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-17 07:31:02",
+    "ultima_vez":  "2026-10-17 07:31:53",
     "arranque":  "2026-10-17 06:26:30",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
-                     "BraveCrashHandler",
-                     "BraveCrashHandler64",
-                     "CrossDeviceResume",
-                     "CrossDeviceService",
-                     "DefenderSessionHelper",
-                     "Dell.TechHub.Instrumentation.UserProcess",
-                     "EXCEL",
-                     "IDBWM",
-                     "ipf_helper",
-                     "Microsoft.AAD.BrokerPlugin",
-                     "MicrosoftStartFeedProvider",
-                     "MoNotificationUx",
-                     "RtkAudUService64",
-                     "SDXHelper",
-                     "ShellHost",
-                     "soffice",
-                     "soffice.bin",
-                     "splwow64",
-                     "unsecapp",
-                     "WidgetBoard",
-                     "WWAHost"
+                     "ShellHost"
                  ],
-    "apagado":  false
+    "apagado":  true
 }
