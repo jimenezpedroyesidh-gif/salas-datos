@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-17 08:18:02",
+    "ultima_vez":  "2026-10-17 08:38:02",
     "arranque":  "2026-10-17 06:35:03",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -17,6 +18,9 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
+                     "swriter",
                      "unsecapp",
                      "WidgetBoard"
                  ],
