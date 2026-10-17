@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-17 06:38:02",
+    "ultima_vez":  "2026-10-17 06:58:03",
     "arranque":  "2026-10-17 06:35:03",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,6 +16,7 @@
                      "msedge",
                      "RtkAudUService64",
                      "scalc",
+                     "SDXHelper",
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
