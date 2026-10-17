@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-17 07:57:03",
-    "arranque":  "2026-10-09 14:14:54",
+    "ultima_vez":  "2026-10-17 08:17:02",
+    "arranque":  "2026-10-09 14:14:52",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
@@ -16,10 +16,8 @@
                      "jusched",
                      "M365Copilot",
                      "msedge",
-                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WhatsApp.Root"
