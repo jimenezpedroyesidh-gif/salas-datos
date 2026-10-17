@@ -11,5 +11,5 @@
                      "igfxTray",
                      "mobsync"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
