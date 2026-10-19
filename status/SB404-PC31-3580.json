@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-19 06:41:02",
+    "ultima_vez":  "2026-10-19 07:01:04",
     "arranque":  "2026-10-15 06:30:56",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,6 @@
                      "DefenderSessionHelper",
                      "jucheck",
                      "jusched",
-                     "MSOSYNC",
                      "netbeans64"
                  ],
     "apagado":  false
