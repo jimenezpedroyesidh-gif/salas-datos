@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-19 07:34:49",
+    "ultima_vez":  "2026-10-19 07:37:02",
     "arranque":  "2026-10-19 06:09:14",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,10 +11,11 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
