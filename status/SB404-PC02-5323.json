@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC02-5323",
-    "ultima_vez":  "2026-10-19 07:07:02",
+    "ultima_vez":  "2026-10-19 07:27:02",
     "arranque":  "2026-10-16 15:31:45",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,7 +17,6 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "msedge",
-                     "netbeans64",
                      "ollama",
                      "ollama app",
                      "RtkAudUService64",
