@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-19 12:23:18",
+    "ultima_vez":  "2026-10-19 12:55:25",
     "arranque":  "2026-10-16 06:36:10",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,14 +11,16 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "DeviceCensus",
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "m365copilot_autostarter",
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
