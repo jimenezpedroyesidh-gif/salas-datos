@@ -1,7 +1,7 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-19 08:19:11",
-    "arranque":  "2026-10-16 06:36:11",
+    "ultima_vez":  "2026-10-19 08:27:03",
+    "arranque":  "2026-10-16 06:36:10",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -13,6 +13,7 @@
                      "IDBWM",
                      "ipf_helper",
                      "m365copilot_autostarter",
+                     "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
