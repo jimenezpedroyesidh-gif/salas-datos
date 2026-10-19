@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-19 10:40:02",
+    "ultima_vez":  "2026-10-19 11:00:02",
     "arranque":  "2026-10-19 10:05:40",
     "conexion":  "ethernet",
     "procesos":  [
@@ -18,7 +18,6 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "MSOSYNC",
                      "netbeans64",
                      "Notepad",
                      "ONENOTEM",
