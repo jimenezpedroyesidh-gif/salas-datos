@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-19 07:32:26",
+    "ultima_vez":  "2026-10-19 07:33:48",
     "arranque":  "2026-10-19 06:09:14",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Dell.TechHub.Instrumentation.UserProcess",
                      "ShellHost"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
