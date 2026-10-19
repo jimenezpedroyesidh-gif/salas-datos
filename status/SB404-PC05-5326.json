@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-19 07:31:02",
+    "ultima_vez":  "2026-10-19 08:50:36",
     "arranque":  "2026-10-16 08:18:33",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ActionsServer",
                      "AppVShNotify",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,9 +15,10 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "netbeans64",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
