@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-19 10:11:02",
+    "ultima_vez":  "2026-10-19 10:31:06",
     "arranque":  "2026-10-17 06:26:28",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
+                     "AppVShNotify",
                      "brave",
                      "BraveCrashHandler",
                      "BraveCrashHandler64",
