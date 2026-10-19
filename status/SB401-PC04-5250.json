@@ -1,17 +1,21 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-19 12:12:41",
+    "ultima_vez":  "2026-10-19 12:18:04",
     "arranque":  "2026-10-19 08:24:41",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jusched",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
-                     "unsecapp"
+                     "unsecapp",
+                     "WavesSvc64"
                  ],
     "apagado":  false
 }
