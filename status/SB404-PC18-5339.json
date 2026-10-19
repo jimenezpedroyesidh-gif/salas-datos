@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-19 10:11:05",
+    "ultima_vez":  "2026-10-19 10:31:05",
     "arranque":  "2026-10-19 10:05:10",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppVShNotify",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -13,9 +14,11 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
-                     "MoNotificationUx",
+                     "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
