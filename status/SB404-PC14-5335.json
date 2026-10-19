@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-19 10:08:11",
+    "ultima_vez":  "2026-10-19 10:08:31",
     "arranque":  "2026-10-19 10:07:45",
     "conexion":  "ethernet",
     "procesos":  [
@@ -8,10 +8,12 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "ipf_helper",
-                     "mobsync",
+                     "jusched",
                      "RtkAudUService64",
+                     "rvlkl",
                      "ShellHost",
-                     "unsecapp"
+                     "unsecapp",
+                     "WavesSvc64"
                  ],
     "apagado":  false
 }
