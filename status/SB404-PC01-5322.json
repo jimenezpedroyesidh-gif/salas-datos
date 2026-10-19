@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-19 06:26:07",
+    "ultima_vez":  "2026-10-19 06:46:05",
     "arranque":  "2026-10-19 06:13:08",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,7 +20,6 @@
                      "msedge",
                      "netbeans64",
                      "RtkAudUService64",
-                     "rundll32",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
