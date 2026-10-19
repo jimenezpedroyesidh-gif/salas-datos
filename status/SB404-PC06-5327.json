@@ -1,31 +1,30 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-19 06:02:22",
+    "ultima_vez":  "2026-10-19 06:13:03",
     "arranque":  "2026-10-15 08:26:29",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "AppVShNotify",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
-                     "identity_helper",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "msedge",
                      "MSOSYNC",
-                     "opushutil",
+                     "netbeans64",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
