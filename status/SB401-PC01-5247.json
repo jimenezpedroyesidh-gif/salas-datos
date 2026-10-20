@@ -1,30 +1,33 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-20 03:19:46",
+    "ultima_vez":  "2026-10-20 10:11:52",
     "arranque":  "2026-10-16 06:36:10",
     "conexion":  "ethernet",
     "procesos":  [
                      "ActionsServer",
                      "AdobeARM",
                      "AdobeCollabSync",
+                     "AppActions",
+                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "default-browser-agent",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "DeviceCensus",
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
-                     "m365copilot_autostarter",
                      "MicrosoftStartFeedProvider",
                      "opushutil",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
