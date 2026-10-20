@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-20 08:16:08",
+    "ultima_vez":  "2026-10-20 08:18:02",
     "arranque":  "2026-10-20 08:15:20",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,12 +9,23 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
+                     "IGCC",
+                     "IGCCTray",
                      "ipf_helper",
+                     "jusched",
+                     "M365Copilot",
+                     "MicrosoftStartFeedProvider",
+                     "msedge",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
