@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-20 18:23:32",
+    "ultima_vez":  "2026-10-20 18:28:03",
     "arranque":  "2026-10-15 10:19:42",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,7 +15,10 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "sbase",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
