@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-20 10:04:38",
+    "ultima_vez":  "2026-10-20 10:06:02",
     "arranque":  "2026-10-19 09:11:37",
     "conexion":  "ethernet",
     "procesos":  [
@@ -13,12 +13,15 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "firefox",
                      "IDBWM",
+                     "identity_helper",
                      "ipf_helper",
+                     "jusched",
+                     "M365Copilot",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "updater",
                      "WavesSvc64",
                      "WidgetBoard"
                  ],
