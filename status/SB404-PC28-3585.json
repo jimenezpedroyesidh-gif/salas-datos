@@ -1,19 +1,14 @@
 {
     "hostname":  "SB404-PC28-3585",
-    "ultima_vez":  "2026-10-20 07:44:14",
+    "ultima_vez":  "2026-10-20 18:10:11",
     "arranque":  "2026-10-10 07:38:58",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
-                     "AdobeCollabSync",
-                     "chrome",
-                     "CompPkgSrv",
                      "GameInputSvc",
                      "igfxEM",
                      "igfxHK",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM"
+                     "mobsync",
+                     "MusNotificationUx"
                  ],
     "apagado":  false
 }
