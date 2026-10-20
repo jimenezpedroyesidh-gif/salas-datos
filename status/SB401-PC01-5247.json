@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-19 12:55:25",
+    "ultima_vez":  "2026-10-20 03:19:46",
     "arranque":  "2026-10-16 06:36:10",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,6 +9,7 @@
                      "AdobeCollabSync",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "default-browser-agent",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "DeviceCensus",
@@ -17,10 +18,10 @@
                      "ipf_helper",
                      "m365copilot_autostarter",
                      "MicrosoftStartFeedProvider",
+                     "opushutil",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
