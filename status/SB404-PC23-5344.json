@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-20 06:19:32",
-    "arranque":  "2026-10-19 06:04:06",
+    "ultima_vez":  "2026-10-20 06:38:04",
+    "arranque":  "2026-10-19 06:04:02",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -12,6 +13,7 @@
                      "ipf_helper",
                      "msedge",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "VBoxSVC",
