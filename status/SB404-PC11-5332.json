@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-20 18:18:58",
+    "ultima_vez":  "2026-10-20 18:38:03",
     "arranque":  "2026-10-20 08:15:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "chrome",
                      "copilotapp",
                      "copilotapphost",
@@ -20,9 +21,11 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "msedge",
-                     "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
