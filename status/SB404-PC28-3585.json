@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC28-3585",
-    "ultima_vez":  "2026-10-20 18:24:04",
+    "ultima_vez":  "2026-10-20 18:44:05",
     "arranque":  "2026-10-10 07:38:58",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,10 @@
                      "CompPkgSrv",
                      "GameInputSvc",
                      "igfxEM",
-                     "igfxHK"
+                     "igfxHK",
+                     "sbase",
+                     "soffice",
+                     "soffice.bin"
                  ],
     "apagado":  false
 }
