@@ -1,14 +1,16 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-20 06:09:28",
+    "ultima_vez":  "2026-10-20 06:09:27",
     "arranque":  "2026-10-20 06:08:38",
     "conexion":  "ethernet",
     "procesos":  [
+                     "browser_assistant",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DataExchangeHost",
                      "ipf_helper",
                      "RtkAudUService64",
+                     "runonce",
                      "ShellHost",
                      "unsecapp",
                      "VBoxSVC",
