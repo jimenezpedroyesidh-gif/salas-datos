@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-20 11:08:44",
-    "arranque":  "2026-10-20 06:06:24",
+    "ultima_vez":  "2026-10-20 11:14:11",
+    "arranque":  "2026-10-20 06:06:21",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -13,9 +13,11 @@
                      "IDBWM",
                      "ipf_helper",
                      "M365Copilot",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
