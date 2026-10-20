@@ -1,10 +1,9 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-20 07:38:04",
+    "ultima_vez":  "2026-10-20 08:14:31",
     "arranque":  "2026-10-19 06:04:02",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,12 +13,8 @@
                      "ipf_helper",
                      "msedge",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
