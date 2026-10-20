@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-20 10:29:03",
+    "ultima_vez":  "2026-10-20 10:49:02",
     "arranque":  "2026-10-19 08:24:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "ipf_helper",
                      "jucheck",
                      "jusched",
+                     "node",
                      "OpenConsole",
                      "RtkAudUService64",
                      "ShellHost",
