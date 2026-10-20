@@ -1,16 +1,17 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-20 18:10:47",
-    "arranque":  "2026-10-20 18:09:59",
+    "ultima_vez":  "2026-10-20 18:23:17",
+    "arranque":  "2026-10-20 18:22:31",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "crashhelper",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "firefox",
                      "ipf_helper",
+                     "jusched",
                      "RtkAudUService64",
+                     "rundll32",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64"
