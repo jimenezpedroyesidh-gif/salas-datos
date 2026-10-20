@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-20 17:01:02",
+    "ultima_vez":  "2026-10-20 17:21:03",
     "arranque":  "2026-10-20 06:06:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,6 +9,7 @@
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
+                     "DataExchangeHost",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
@@ -16,6 +17,7 @@
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
                      "msedge",
+                     "Notepad",
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
