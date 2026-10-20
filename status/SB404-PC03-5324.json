@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-20 18:28:03",
+    "ultima_vez":  "2026-10-20 18:48:43",
     "arranque":  "2026-10-15 10:19:42",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
                      "AppActions",
                      "chrome",
                      "CrossDeviceResume",
@@ -16,6 +17,7 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "sbase",
+                     "SDXHelper",
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
