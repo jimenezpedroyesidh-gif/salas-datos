@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-20 09:56:03",
+    "ultima_vez":  "2026-10-20 10:16:02",
     "arranque":  "2026-10-20 06:08:38",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,9 +14,6 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
