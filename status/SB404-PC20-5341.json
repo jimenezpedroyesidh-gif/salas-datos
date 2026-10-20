@@ -1,13 +1,12 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-20 07:34:02",
+    "ultima_vez":  "2026-10-20 07:54:02",
     "arranque":  "2026-10-19 06:19:39",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -18,9 +17,6 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "WavesSvc64"
                  ],
     "apagado":  false
