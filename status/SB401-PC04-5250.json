@@ -1,6 +1,6 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-20 10:49:02",
+    "ultima_vez":  "2026-10-20 11:09:02",
     "arranque":  "2026-10-19 08:24:36",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,6 +9,9 @@
                      "AppActions",
                      "chrome",
                      "cmd",
+                     "Code",
+                     "CodeSetup-stable-6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1",
+                     "CodeSetup-stable-6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1.tmp",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -18,6 +21,8 @@
                      "jusched",
                      "node",
                      "OpenConsole",
+                     "pet",
+                     "powershell",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
