@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-20 08:27:57",
-    "arranque":  "2026-10-20 08:27:09",
+    "ultima_vez":  "2026-10-20 11:10:13",
+    "arranque":  "2026-10-20 11:09:23",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -9,6 +9,7 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "httpd",
                      "ipf_helper",
                      "opera",
                      "opera_autoupdate",
@@ -16,7 +17,8 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "xampp-control"
                  ],
     "apagado":  false
 }
