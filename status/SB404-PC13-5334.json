@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-21 08:10:02",
+    "ultima_vez":  "2026-10-21 08:15:25",
     "arranque":  "2026-10-20 10:13:46",
     "conexion":  "ethernet",
     "procesos":  [
@@ -13,11 +13,16 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
+                     "MSOSYNC",
                      "ONENOTEM",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
