@@ -1,13 +1,13 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-21 07:37:02",
+    "ultima_vez":  "2026-10-21 07:57:02",
     "arranque":  "2026-10-19 06:06:35",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
-                     "BackgroundTransferHost",
+                     "CalculatorApp",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -21,6 +21,7 @@
                      "Notepad",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WhatsApp.Root"
