@@ -1,10 +1,11 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-21 08:17:16",
+    "ultima_vez":  "2026-10-21 08:22:02",
     "arranque":  "2026-10-20 08:31:02",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
+                     "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,15 +17,13 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "RtkAudUService64",
+                     "SafeExamBrowser",
+                     "SafeExamBrowser.Client",
                      "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
                      "unsecapp",
-                     "updater",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
