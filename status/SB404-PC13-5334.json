@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-21 08:20:02",
+    "ultima_vez":  "2026-10-21 08:40:04",
     "arranque":  "2026-10-20 10:13:46",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,11 +17,12 @@
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "msedge",
-                     "MSOSYNC",
                      "netbeans64",
                      "ONENOTEM",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
