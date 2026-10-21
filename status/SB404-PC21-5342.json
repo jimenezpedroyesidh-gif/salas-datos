@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-21 14:36:55",
+    "ultima_vez":  "2026-10-21 14:42:21",
     "arranque":  "2026-10-20 16:25:21",
     "conexion":  "ethernet",
     "procesos":  [
+                     "chrome",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -12,8 +13,10 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
