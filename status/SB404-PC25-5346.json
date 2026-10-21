@@ -1,27 +1,23 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-21 14:40:08",
+    "ultima_vez":  "2026-10-21 14:41:02",
     "arranque":  "2026-10-21 08:11:11",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "chrome",
                      "codeblocks",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
