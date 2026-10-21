@@ -1,20 +1,31 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-21 08:18:24",
+    "ultima_vez":  "2026-10-21 08:23:26",
     "arranque":  "2026-10-21 08:17:33",
     "conexion":  "ethernet",
     "procesos":  [
+                     "Acrobat",
+                     "AcroCEF",
+                     "ActionsServer",
+                     "AdobeARM",
                      "AdobeCollabSync",
-                     "chrome",
+                     "CefSharp.BrowserSubprocess",
                      "CrossDeviceResume",
+                     "default-browser-agent",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "RtkAudUService64",
-                     "runonce",
+                     "SafeExamBrowser",
+                     "SafeExamBrowser.Client",
                      "ShellHost",
                      "unsecapp",
-                     "WavesSvc64"
+                     "updater",
+                     "WavesSvc64",
+                     "zen"
                  ],
     "apagado":  false
 }
