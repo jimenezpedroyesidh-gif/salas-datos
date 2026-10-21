@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-20 18:41:03",
+    "ultima_vez":  "2026-10-20 19:01:03",
     "arranque":  "2026-10-15 06:30:58",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,7 +10,6 @@
                      "DefenderSessionHelper",
                      "jucheck",
                      "jusched",
-                     "MSOSYNC",
                      "sbase",
                      "soffice",
                      "soffice.bin"
