@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-22 00:35:46",
+    "ultima_vez":  "2026-10-22 03:24:03",
     "arranque":  "2026-10-14 00:21:14",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AppActions",
                      "chrome",
                      "CrossDeviceResume",
@@ -18,6 +19,7 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "msoia",
                      "opushutil",
                      "RtkAudUService64",
                      "rvlkl",
