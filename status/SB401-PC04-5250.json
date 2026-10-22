@@ -1,7 +1,7 @@
 {
     "hostname":  "SB401-PC04-5250",
-    "ultima_vez":  "2026-10-22 06:49:04",
-    "arranque":  "2026-10-21 08:17:33",
+    "ultima_vez":  "2026-10-22 07:09:03",
+    "arranque":  "2026-10-21 08:17:32",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
@@ -17,7 +17,6 @@
                      "jucheck",
                      "jusched",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64"
