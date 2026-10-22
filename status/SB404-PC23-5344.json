@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-22 08:08:16",
+    "ultima_vez":  "2026-10-22 08:13:43",
     "arranque":  "2026-10-21 14:36:11",
     "conexion":  "ethernet",
     "procesos":  [
@@ -13,9 +13,12 @@
                      "firefox",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
