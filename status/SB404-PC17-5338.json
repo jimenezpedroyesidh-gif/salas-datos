@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-22 07:11:02",
+    "ultima_vez":  "2026-10-22 07:31:02",
     "arranque":  "2026-10-21 14:34:06",
     "conexion":  "ethernet",
     "procesos":  [
@@ -20,6 +20,7 @@
                      "RtkAudUService64",
                      "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
