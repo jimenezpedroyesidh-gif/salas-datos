@@ -1,10 +1,12 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-23 14:25:13",
+    "ultima_vez":  "2026-10-23 14:37:02",
     "arranque":  "2026-10-22 08:33:21",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -13,8 +15,6 @@
                      "jusched",
                      "M365Copilot",
                      "msedge",
-                     "MSOSYNC",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
