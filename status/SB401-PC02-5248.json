@@ -1,9 +1,10 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-22 18:46:02",
+    "ultima_vez":  "2026-10-22 19:06:02",
     "arranque":  "2026-10-16 10:40:37",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "browser_assistant",
@@ -15,6 +16,7 @@
                      "ipf_helper",
                      "jucheck",
                      "jusched",
+                     "MoNotificationUx",
                      "msedge",
                      "opera",
                      "opera_crashreporter",
