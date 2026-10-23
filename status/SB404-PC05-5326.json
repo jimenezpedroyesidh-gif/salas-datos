@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC05-5326",
-    "ultima_vez":  "2026-10-23 10:21:14",
+    "ultima_vez":  "2026-10-23 10:31:04",
     "arranque":  "2026-10-23 10:14:26",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -15,8 +15,8 @@
                      "MoNotificationUx",
                      "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
