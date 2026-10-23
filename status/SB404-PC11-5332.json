@@ -1,7 +1,7 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-23 10:39:33",
-    "arranque":  "2026-10-20 08:15:16",
+    "ultima_vez":  "2026-10-23 10:58:07",
+    "arranque":  "2026-10-20 08:15:14",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
@@ -19,9 +19,11 @@
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "msedge",
                      "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "soffice",
                      "soffice.bin",
