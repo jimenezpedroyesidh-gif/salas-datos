@@ -1,11 +1,11 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-23 10:13:58",
+    "ultima_vez":  "2026-10-23 10:27:02",
     "arranque":  "2026-10-23 10:08:21",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "BackgroundTransferHost",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
