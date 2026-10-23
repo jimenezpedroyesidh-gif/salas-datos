@@ -1,13 +1,12 @@
 {
     "hostname":  "SB404-PC13-5334",
-    "ultima_vez":  "2026-10-23 16:00:06",
+    "ultima_vez":  "2026-10-23 16:20:03",
     "arranque":  "2026-10-23 14:35:25",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "AppVShNotify",
-                     "chrome",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
