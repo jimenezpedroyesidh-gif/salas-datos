@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-24 07:56:02",
+    "ultima_vez":  "2026-10-24 08:16:22",
     "arranque":  "2026-10-21 14:36:15",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ai",
                      "AppActions",
                      "chrome",
                      "CrossDeviceResume",
@@ -19,7 +20,8 @@
                      "soffice.bin",
                      "swriter",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WINWORD"
                  ],
     "apagado":  false
 }
