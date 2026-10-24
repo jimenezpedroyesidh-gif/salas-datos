@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-24 07:55:03",
-    "arranque":  "2026-10-20 16:25:19",
+    "ultima_vez":  "2026-10-24 08:15:04",
+    "arranque":  "2026-10-20 16:25:18",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
                      "AppActions",
                      "chrome",
                      "CrossDeviceResume",
@@ -13,11 +14,16 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "msedge",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
+                     "soffice",
+                     "soffice.bin",
+                     "swriter",
                      "unsecapp",
-                     "WidgetBoard",
-                     "WINWORD"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
