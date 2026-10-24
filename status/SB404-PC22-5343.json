@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-24 08:16:22",
+    "ultima_vez":  "2026-10-24 08:36:03",
     "arranque":  "2026-10-21 14:36:15",
     "conexion":  "ethernet",
     "procesos":  [
                      "ai",
                      "AppActions",
+                     "AppVShNotify",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -13,7 +14,6 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
-                     "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
                      "soffice",
