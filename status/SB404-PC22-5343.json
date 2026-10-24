@@ -1,11 +1,11 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-24 08:58:37",
+    "ultima_vez":  "2026-10-24 08:58:58",
     "arranque":  "2026-10-24 08:57:59",
     "conexion":  "ethernet",
     "procesos":  [
                      "RtkAudUService64",
                      "unsecapp"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
