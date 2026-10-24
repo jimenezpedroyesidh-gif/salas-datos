@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-24 01:37:03",
+    "ultima_vez":  "2026-10-24 01:57:03",
     "arranque":  "2026-10-22 08:33:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,6 +16,7 @@
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WhatsApp.Root"
