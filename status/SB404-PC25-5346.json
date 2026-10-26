@@ -1,10 +1,12 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-26 06:03:40",
+    "ultima_vez":  "2026-10-26 06:21:04",
     "arranque":  "2026-10-22 08:06:39",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
+                     "AdobeCollabSync",
+                     "AppActions",
+                     "AppVShNotify",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -12,10 +14,12 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
