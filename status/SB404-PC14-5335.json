@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-26 09:36:16",
+    "ultima_vez":  "2026-10-26 09:48:02",
     "arranque":  "2026-10-20 08:26:25",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
