@@ -1,20 +1,16 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-26 12:11:36",
-    "arranque":  "2026-10-26 12:04:24",
+    "ultima_vez":  "2026-10-26 14:51:01",
+    "arranque":  "2026-10-26 14:50:18",
     "conexion":  "ethernet",
     "procesos":  [
-                     "chrome",
-                     "CompPkgSrv",
                      "GameInputRawInputProxy",
                      "GameInputRedistService",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "jucheck",
                      "jusched",
-                     "MSOSYNC",
-                     "netbeans64",
+                     "SearchProtocolHost",
                      "XboxService"
                  ],
     "apagado":  false
