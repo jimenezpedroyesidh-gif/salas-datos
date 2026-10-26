@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-26 08:08:49",
+    "ultima_vez":  "2026-10-26 08:08:51",
     "arranque":  "2026-10-26 08:08:00",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,7 +9,9 @@
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "FullTrustNotifier",
                      "identity_helper",
+                     "IGCCTray",
                      "ipf_helper",
                      "msedge",
                      "RtkAudUService64",
