@@ -1,10 +1,10 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-26 06:08:36",
+    "ultima_vez":  "2026-10-26 06:16:03",
     "arranque":  "2026-10-26 06:00:59",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,7 +14,6 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "netbeans64",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
