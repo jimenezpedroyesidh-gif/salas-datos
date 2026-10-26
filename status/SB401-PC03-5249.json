@@ -1,17 +1,15 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-26 12:17:33",
+    "ultima_vez":  "2026-10-26 12:22:02",
     "arranque":  "2026-10-23 14:56:57",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
+                     "AppActions",
                      "chrome",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
@@ -20,7 +18,6 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "updater",
                      "WavesSvc64",
                      "WidgetBoard"
                  ],
