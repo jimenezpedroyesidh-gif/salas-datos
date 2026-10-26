@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-26 06:29:03",
+    "ultima_vez":  "2026-10-26 06:49:02",
     "arranque":  "2026-10-26 06:05:58",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,7 +21,6 @@
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
