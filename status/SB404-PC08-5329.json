@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-26 10:18:54",
+    "ultima_vez":  "2026-10-26 12:05:32",
     "arranque":  "2026-10-21 10:10:39",
     "conexion":  "ethernet",
     "procesos":  [
@@ -16,8 +16,8 @@
                      "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
+                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
