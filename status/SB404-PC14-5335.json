@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC14-5335",
-    "ultima_vez":  "2026-10-26 09:31:01",
+    "ultima_vez":  "2026-10-26 09:36:16",
     "arranque":  "2026-10-20 08:26:25",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,8 +9,10 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "MoNotificationUx",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "rvlkl",
                      "ShellHost",
