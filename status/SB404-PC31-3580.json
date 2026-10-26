@@ -1,12 +1,12 @@
 {
     "hostname":  "SB404-PC31-3580",
-    "ultima_vez":  "2026-10-22 09:12:30",
+    "ultima_vez":  "2026-10-22 09:15:33",
     "arranque":  "2026-10-15 06:31:02",
     "conexion":  "ethernet",
     "procesos":  [
                      "DefenderSessionHelper",
                      "jusched",
-                     "MSOSYNC"
+                     "netbeans64"
                  ],
     "apagado":  false
 }
