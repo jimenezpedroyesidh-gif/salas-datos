@@ -1,15 +1,17 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-26 12:08:02",
+    "ultima_vez":  "2026-10-26 12:11:36",
     "arranque":  "2026-10-26 12:04:24",
     "conexion":  "ethernet",
     "procesos":  [
                      "chrome",
+                     "CompPkgSrv",
                      "GameInputRawInputProxy",
                      "GameInputRedistService",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
+                     "jucheck",
                      "jusched",
                      "MSOSYNC",
                      "netbeans64",
