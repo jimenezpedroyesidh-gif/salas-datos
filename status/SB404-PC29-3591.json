@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-26 14:51:01",
+    "ultima_vez":  "2026-10-26 14:58:27",
     "arranque":  "2026-10-26 14:50:18",
     "conexion":  "ethernet",
     "procesos":  [
@@ -9,8 +9,9 @@
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
+                     "jucheck",
                      "jusched",
-                     "SearchProtocolHost",
+                     "MSOSYNC",
                      "XboxService"
                  ],
     "apagado":  false
