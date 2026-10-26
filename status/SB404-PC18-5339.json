@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC18-5339",
-    "ultima_vez":  "2026-10-26 08:11:02",
+    "ultima_vez":  "2026-10-26 08:31:03",
     "arranque":  "2026-10-26 08:08:26",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
+                     "AppVShNotify",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -11,6 +13,7 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
