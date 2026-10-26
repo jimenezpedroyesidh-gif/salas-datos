@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC16-5337",
-    "ultima_vez":  "2026-10-26 09:30:03",
+    "ultima_vez":  "2026-10-26 09:50:03",
     "arranque":  "2026-10-21 10:18:23",
     "conexion":  "ethernet",
     "procesos":  [
+                     "_uninstall15152.000",
                      "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
