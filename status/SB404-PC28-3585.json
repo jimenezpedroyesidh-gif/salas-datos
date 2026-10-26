@@ -1,16 +1,16 @@
 {
     "hostname":  "SB404-PC28-3585",
-    "ultima_vez":  "2026-10-26 06:25:05",
-    "arranque":  "2026-10-14 05:53:38",
+    "ultima_vez":  "2026-10-26 06:44:05",
+    "arranque":  "2026-10-14 21:32:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "Acrobat",
                      "AdobeCollabSync",
                      "chrome",
+                     "CompPkgSrv",
                      "GameInputSvc",
                      "igfxEM",
                      "igfxHK",
-                     "MusNotifyIcon",
                      "netbeans64"
                  ],
     "apagado":  false
