@@ -1,20 +1,24 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-26 06:49:57",
+    "ultima_vez":  "2026-10-26 06:51:04",
     "arranque":  "2026-10-26 06:49:07",
     "conexion":  "ethernet",
     "procesos":  [
-                     "BackgroundTransferHost",
                      "BraveCrashHandler",
                      "BraveCrashHandler64",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
