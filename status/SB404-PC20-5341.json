@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-26 10:03:28",
+    "ultima_vez":  "2026-10-26 10:07:35",
     "arranque":  "2026-10-26 08:07:47",
     "conexion":  "ethernet",
     "procesos":  [
@@ -10,9 +10,11 @@
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "firefox",
+                     "IDBWM",
                      "ipf_helper",
                      "jusched",
                      "MoNotificationUx",
+                     "netbeans64",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
