@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-26 12:58:03",
+    "ultima_vez":  "2026-10-26 14:55:28",
     "arranque":  "2026-10-26 09:23:28",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
                      "copilotapp",
@@ -14,6 +15,7 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "ForegroundWatcher",
                      "IDBWM",
+                     "identity_helper",
                      "IGCC",
                      "IGCCTray",
                      "ipf_helper",
@@ -21,8 +23,13 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "msedge",
+                     "MSOSYNC",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
