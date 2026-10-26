@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-26 10:17:23",
+    "ultima_vez":  "2026-10-26 10:31:03",
     "arranque":  "2026-10-26 08:08:23",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,6 +17,9 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
+                     "simpress",
+                     "soffice",
+                     "soffice.bin",
                      "unsecapp",
                      "WidgetBoard"
                  ],
