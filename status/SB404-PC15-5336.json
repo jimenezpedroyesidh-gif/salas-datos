@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-26 15:08:49",
+    "ultima_vez":  "2026-10-26 15:10:33",
     "arranque":  "2026-10-26 14:58:17",
     "conexion":  "ethernet",
     "procesos":  [
                      "ActionsServer",
+                     "AdobeARM",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
