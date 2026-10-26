@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-26 14:58:11",
+    "ultima_vez":  "2026-10-26 15:01:03",
     "arranque":  "2026-10-26 14:51:37",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,7 +17,6 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
