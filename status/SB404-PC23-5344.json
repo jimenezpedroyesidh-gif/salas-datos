@@ -1,15 +1,14 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-26 10:06:14",
+    "ultima_vez":  "2026-10-26 10:18:02",
     "arranque":  "2026-10-26 08:08:55",
     "conexion":  "ethernet",
     "procesos":  [
-                     "crashhelper",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
