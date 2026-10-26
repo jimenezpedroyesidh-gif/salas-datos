@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-26 10:03:13",
+    "ultima_vez":  "2026-10-26 12:35:48",
     "arranque":  "2026-10-21 08:09:54",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,6 +17,7 @@
                      "msedge",
                      "netbeans64",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
