@@ -1,26 +1,15 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-27 07:36:03",
-    "arranque":  "2026-10-27 06:14:05",
+    "ultima_vez":  "2026-10-27 10:02:04",
+    "arranque":  "2026-10-27 10:01:18",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AppActions",
-                     "CalculatorApp",
-                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "Dell.TechHub.Instrumentation.UserProcess",
-                     "IDBWM",
                      "ipf_helper",
-                     "MicrosoftStartFeedProvider",
-                     "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SnippingTool",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
