@@ -1,18 +1,17 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-27 07:01:03",
+    "ultima_vez":  "2026-10-27 07:21:03",
     "arranque":  "2026-10-26 14:51:49",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "chrome",
+                     "CHXSmartScreen",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "GameBar",
-                     "GameBarFTServer",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
@@ -20,9 +19,6 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
-                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
