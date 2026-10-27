@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-27 06:01:03",
+    "ultima_vez":  "2026-10-27 06:21:03",
     "arranque":  "2026-10-26 14:51:49",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -17,6 +18,9 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
+                     "VBoxSVC",
+                     "VirtualBox",
+                     "VirtualBoxVM",
                      "WidgetBoard"
                  ],
     "apagado":  false
