@@ -1,9 +1,10 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-27 18:03:06",
+    "ultima_vez":  "2026-10-27 18:13:07",
     "arranque":  "2026-10-27 11:13:18",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ActionsServer",
                      "AdobeCollabSync",
                      "copilotapp",
                      "copilotapphost",
@@ -11,10 +12,14 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "HelpPane",
                      "IDBWM",
+                     "identity_helper",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
                      "RtkAudUService64",
+                     "SearchProtocolHost",
                      "ShellHost",
                      "unsecapp",
                      "WidgetBoard"
