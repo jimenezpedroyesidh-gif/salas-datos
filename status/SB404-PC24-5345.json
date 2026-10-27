@@ -1,11 +1,11 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-27 06:18:01",
+    "ultima_vez":  "2026-10-27 06:21:03",
     "arranque":  "2026-10-27 06:07:53",
     "conexion":  "ethernet",
     "procesos":  [
-                     "Acrobat",
                      "AdobeCollabSync",
+                     "AppActions",
                      "chrome",
                      "copilotapp",
                      "copilotapphost",
@@ -19,7 +19,6 @@
                      "MoNotificationUx",
                      "msedge",
                      "Notepad",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
