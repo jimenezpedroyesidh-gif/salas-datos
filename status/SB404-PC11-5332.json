@@ -1,10 +1,28 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-26 15:04:22",
+    "ultima_vez":  "2026-10-27 10:11:40",
     "arranque":  "2026-10-26 09:23:28",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "AdobeCollabSync",
+                     "copilotapp",
+                     "copilotapphost",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "ForegroundWatcher",
+                     "IDBWM",
+                     "IGCC",
+                     "IGCCTray",
+                     "ipf_helper",
+                     "jusched",
+                     "msedge",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
