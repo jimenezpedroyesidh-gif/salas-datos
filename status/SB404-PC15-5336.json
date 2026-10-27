@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-27 10:09:02",
+    "ultima_vez":  "2026-10-27 10:29:04",
     "arranque":  "2026-10-26 14:58:17",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,8 +21,7 @@
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
