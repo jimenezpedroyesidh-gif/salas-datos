@@ -1,11 +1,11 @@
 {
     "hostname":  "SB404-PC15-5336",
-    "ultima_vez":  "2026-10-27 03:19:57",
+    "ultima_vez":  "2026-10-27 10:03:37",
     "arranque":  "2026-10-26 14:58:17",
     "conexion":  "ethernet",
     "procesos":  [
-                     "AdobeARM",
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -16,8 +16,7 @@
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "OfficeC2RClient",
-                     "opushutil",
+                     "OfficeClickToRun",
                      "RtkAudUService64",
                      "rvlkl",
                      "SDXHelper",
@@ -26,7 +25,8 @@
                      "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
