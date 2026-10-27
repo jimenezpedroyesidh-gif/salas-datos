@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-27 18:17:30",
+    "ultima_vez":  "2026-10-27 18:18:02",
     "arranque":  "2026-10-27 18:11:23",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,7 +17,9 @@
                      "IGCCTray",
                      "ipf_helper",
                      "jusched",
+                     "MicrosoftStartFeedProvider",
                      "msedge",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
