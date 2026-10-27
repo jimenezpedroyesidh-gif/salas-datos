@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-27 06:44:04",
+    "ultima_vez":  "2026-10-27 07:04:03",
     "arranque":  "2026-10-26 14:50:18",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,10 +11,7 @@
                      "igfxTray",
                      "jucheck",
                      "jusched",
-                     "MSOSYNC",
-                     "SystemSettingsBroker",
-                     "VBoxSVC",
-                     "VirtualBox"
+                     "SystemSettingsBroker"
                  ],
     "apagado":  false
 }
