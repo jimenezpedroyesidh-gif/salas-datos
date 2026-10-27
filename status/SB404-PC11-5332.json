@@ -1,10 +1,26 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-27 17:37:17",
-    "arranque":  "2026-10-27 10:46:03",
+    "ultima_vez":  "2026-10-27 18:12:09",
+    "arranque":  "2026-10-27 18:11:23",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "AdobeCollabSync",
+                     "copilotapp",
+                     "copilotapphost",
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "identity_helper",
+                     "IGCC",
+                     "IGCCTray",
+                     "ipf_helper",
+                     "jusched",
+                     "RtkAudUService64",
+                     "runonce",
+                     "ShellHost",
+                     "unsecapp",
+                     "WavesSvc64",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
