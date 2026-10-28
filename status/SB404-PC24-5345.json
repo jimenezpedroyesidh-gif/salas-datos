@@ -1,11 +1,11 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-28 15:08:19",
+    "ultima_vez":  "2026-10-28 15:21:02",
     "arranque":  "2026-10-28 15:03:50",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "AdobeCollabSync",
+                     "AppActions",
                      "copilotapp",
                      "copilotapphost",
                      "CrossDeviceResume",
@@ -17,7 +17,6 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
