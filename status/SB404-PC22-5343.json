@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-28 14:20:21",
+    "ultima_vez":  "2026-10-28 14:36:02",
     "arranque":  "2026-10-28 10:04:36",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
+                     "AppActions",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -13,7 +15,6 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
