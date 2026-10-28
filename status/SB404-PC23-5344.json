@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-28 14:38:04",
+    "ultima_vez":  "2026-10-28 14:58:02",
     "arranque":  "2026-10-28 14:12:29",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,6 +15,7 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "mspaint",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
