@@ -1,11 +1,11 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-28 10:13:00",
+    "ultima_vez":  "2026-10-28 10:16:02",
     "arranque":  "2026-10-28 10:04:36",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "AdobeARM",
+                     "AppActions",
                      "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -14,12 +14,9 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
-                     "updater",
                      "WidgetBoard"
                  ],
     "apagado":  false
