@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-28 15:17:09",
+    "ultima_vez":  "2026-10-28 15:37:02",
     "arranque":  "2026-10-26 14:55:49",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,7 +15,6 @@
                      "jusched",
                      "M365Copilot",
                      "MoNotificationUx",
-                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
