@@ -1,15 +1,16 @@
 {
     "hostname":  "SB401-PC03-5249",
-    "ultima_vez":  "2026-10-29 18:24:02",
+    "ultima_vez":  "2026-10-29 18:42:02",
     "arranque":  "2026-10-28 10:11:13",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AppActions",
                      "chrome",
+                     "CredentialUIBroker",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "jucheck",
