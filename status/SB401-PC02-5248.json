@@ -1,12 +1,12 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-29 10:26:02",
+    "ultima_vez":  "2026-10-29 10:46:02",
     "arranque":  "2026-10-29 10:16:32",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ActionsServer",
                      "AdobeARM",
                      "AdobeCollabSync",
+                     "AppActions",
                      "browser_assistant",
                      "chrome",
                      "CrossDeviceResume",
@@ -17,7 +17,6 @@
                      "jucheck",
                      "jusched",
                      "MoNotificationUx",
-                     "opera_autoupdate",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
