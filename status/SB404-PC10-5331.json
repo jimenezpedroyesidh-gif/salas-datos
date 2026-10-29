@@ -1,11 +1,13 @@
 {
     "hostname":  "SB404-PC10-5331",
-    "ultima_vez":  "2026-10-29 08:37:03",
+    "ultima_vez":  "2026-10-29 08:57:02",
     "arranque":  "2026-10-26 14:55:46",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
                      "AdobeCollabSync",
+                     "ai",
+                     "aimgr",
                      "AppActions",
                      "chrome",
                      "CrossDeviceResume",
@@ -16,12 +18,12 @@
                      "jusched",
                      "M365Copilot",
                      "MoNotificationUx",
-                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
                      "WavesSvc64",
-                     "WhatsApp.Root"
+                     "WhatsApp.Root",
+                     "WINWORD"
                  ],
     "apagado":  false
 }
