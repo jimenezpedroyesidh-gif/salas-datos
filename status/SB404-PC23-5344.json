@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-30 06:18:02",
+    "ultima_vez":  "2026-10-30 06:38:02",
     "arranque":  "2026-10-29 20:09:42",
     "conexion":  "ethernet",
     "procesos":  [
@@ -19,7 +19,6 @@
                      "msedge",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "Solitaire",
                      "unsecapp",
                      "VBoxSVC",
