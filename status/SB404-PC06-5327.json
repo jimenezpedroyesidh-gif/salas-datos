@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-30 17:51:41",
+    "ultima_vez":  "2026-10-30 17:53:02",
     "arranque":  "2026-10-30 16:11:20",
     "conexion":  "ethernet",
     "procesos":  [
@@ -11,7 +11,8 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
-                     "msedge",
+                     "MicrosoftStartFeedProvider",
+                     "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
