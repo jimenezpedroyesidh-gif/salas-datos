@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-30 11:11:05",
+    "ultima_vez":  "2026-10-30 11:11:07",
     "arranque":  "2026-10-30 11:10:17",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "copilotapp",
+                     "copilotapphost",
                      "CrossDeviceResume",
                      "DefenderSessionHelper",
                      "identity_helper",
