@@ -1,10 +1,12 @@
 {
     "hostname":  "SB404-PC09-5430",
-    "ultima_vez":  "2026-10-30 12:17:02",
-    "arranque":  "2026-10-28 10:08:20",
+    "ultima_vez":  "2026-10-30 12:37:03",
+    "arranque":  "2026-10-28 10:08:18",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
+                     "AppActions",
                      "Code",
                      "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
                      "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp",
@@ -16,7 +18,6 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
-                     "MSOSYNC",
                      "OpenConsole",
                      "pet",
                      "powershell",
