@@ -1,9 +1,14 @@
 {
     "hostname":  "SB404-PC21-5342",
-    "ultima_vez":  "2026-10-30 12:16:49",
+    "ultima_vez":  "2026-10-30 12:35:04",
     "arranque":  "2026-10-30 12:10:35",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
+                     "AppActions",
+                     "Code",
+                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
+                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -12,10 +17,13 @@
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
+                     "OpenConsole",
+                     "pet",
+                     "powershell",
                      "RtkAudUService64",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
+                     "Updates",
                      "WidgetBoard"
                  ],
     "apagado":  false
