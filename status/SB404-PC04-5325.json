@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC04-5325",
-    "ultima_vez":  "2026-10-29 23:29:02",
+    "ultima_vez":  "2026-10-29 23:49:02",
     "arranque":  "2026-10-28 16:08:41",
     "conexion":  "ethernet",
     "procesos":  [
@@ -17,6 +17,7 @@
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
+                     "PickerHost",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
