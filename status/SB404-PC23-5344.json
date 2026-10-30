@@ -1,10 +1,19 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-30 07:22:20",
-    "arranque":  "2026-10-29 20:09:42",
+    "ultima_vez":  "2026-10-30 12:14:20",
+    "arranque":  "2026-10-30 12:13:36",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "Code",
+                     "copilot-runtime",
+                     "CrossDeviceResume",
+                     "DefenderSessionHelper",
+                     "ipf_helper",
+                     "RtkAudUService64",
+                     "rundll32",
+                     "ShellHost",
+                     "unsecapp",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
