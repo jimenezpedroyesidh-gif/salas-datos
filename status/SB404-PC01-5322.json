@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-30 07:06:02",
+    "ultima_vez":  "2026-10-30 07:26:04",
     "arranque":  "2026-10-26 08:08:11",
     "conexion":  "ethernet",
     "procesos":  [
@@ -21,8 +21,6 @@
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
-                     "VBoxSVC",
-                     "VirtualBox",
                      "WavesSvc64",
                      "WidgetBoard"
                  ],
