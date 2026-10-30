@@ -1,10 +1,20 @@
 {
     "hostname":  "SB404-PC06-5327",
-    "ultima_vez":  "2026-10-30 06:14:57",
+    "ultima_vez":  "2026-10-30 11:12:11",
     "arranque":  "2026-10-30 06:13:42",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ShellHost"
+                     "CrossDeviceResume",
+                     "CrossDeviceService",
+                     "DefenderSessionHelper",
+                     "ipf_helper",
+                     "mobsync",
+                     "opushutil",
+                     "RtkAudUService64",
+                     "ShellHost",
+                     "SoftLandingTask",
+                     "unsecapp",
+                     "WidgetBoard"
                  ],
-    "apagado":  true
+    "apagado":  false
 }
