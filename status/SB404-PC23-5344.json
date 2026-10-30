@@ -1,9 +1,11 @@
 {
     "hostname":  "SB404-PC23-5344",
-    "ultima_vez":  "2026-10-30 18:08:52",
+    "ultima_vez":  "2026-10-30 18:18:03",
     "arranque":  "2026-10-30 12:13:36",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
+                     "AppActions",
                      "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
@@ -15,8 +17,8 @@
                      "MicrosoftStartFeedProvider",
                      "msedge",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
