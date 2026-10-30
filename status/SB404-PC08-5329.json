@@ -1,15 +1,15 @@
 {
     "hostname":  "SB404-PC08-5329",
-    "ultima_vez":  "2026-10-30 16:10:06",
+    "ultima_vez":  "2026-10-30 16:15:02",
     "arranque":  "2026-10-29 09:11:09",
     "conexion":  "ethernet",
     "procesos":  [
-                     "crashhelper",
+                     "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
@@ -17,7 +17,7 @@
                      "MSOSYNC",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
