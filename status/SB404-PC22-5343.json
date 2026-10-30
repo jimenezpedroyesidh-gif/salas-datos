@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-30 07:56:02",
+    "ultima_vez":  "2026-10-30 08:16:03",
     "arranque":  "2026-10-29 19:55:41",
     "conexion":  "ethernet",
     "procesos":  [
                      "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
