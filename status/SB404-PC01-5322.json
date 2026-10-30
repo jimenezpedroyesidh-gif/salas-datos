@@ -1,10 +1,11 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-30 12:15:48",
+    "ultima_vez":  "2026-10-30 12:26:03",
     "arranque":  "2026-10-30 12:10:45",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
+                     "AppActions",
                      "copilotapp",
                      "copilotapphost",
                      "CrossDeviceResume",
@@ -13,11 +14,12 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
                      "RtkAudUService64",
+                     "SDXHelper",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
