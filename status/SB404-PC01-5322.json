@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC01-5322",
-    "ultima_vez":  "2026-10-30 12:26:03",
+    "ultima_vez":  "2026-10-30 12:46:02",
     "arranque":  "2026-10-30 12:10:45",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "Code",
                      "copilotapp",
                      "copilotapphost",
                      "CrossDeviceResume",
@@ -17,9 +18,12 @@
                      "jucheck",
                      "jusched",
                      "MicrosoftStartFeedProvider",
+                     "OpenConsole",
+                     "pet",
+                     "powershell",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
+                     "SoftLandingTask",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
