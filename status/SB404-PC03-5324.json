@@ -1,12 +1,12 @@
 {
     "hostname":  "SB404-PC03-5324",
-    "ultima_vez":  "2026-10-30 12:16:33",
+    "ultima_vez":  "2026-10-30 12:28:03",
     "arranque":  "2026-10-30 08:07:03",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeCollabSync",
+                     "AppActions",
                      "Code",
-                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7",
-                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7.tmp",
                      "cpptools",
                      "cpptools-srv2",
                      "CrossDeviceResume",
@@ -21,7 +21,6 @@
                      "powershell",
                      "RtkAudUService64",
                      "ShellHost",
-                     "SoftLandingTask",
                      "unsecapp",
                      "WidgetBoard"
                  ],
