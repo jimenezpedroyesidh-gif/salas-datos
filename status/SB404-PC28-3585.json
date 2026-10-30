@@ -1,13 +1,13 @@
 {
     "hostname":  "SB404-PC28-3585",
-    "ultima_vez":  "2026-10-30 13:04:04",
+    "ultima_vez":  "2026-10-30 13:24:05",
     "arranque":  "2026-10-14 21:32:15",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "Code",
-                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7",
-                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7.tmp",
+                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
+                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp",
                      "CompPkgSrv",
                      "GameInputSvc",
                      "igfxEM",
