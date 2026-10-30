@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC22-5343",
-    "ultima_vez":  "2026-10-29 22:56:03",
+    "ultima_vez":  "2026-10-29 23:16:02",
     "arranque":  "2026-10-29 19:55:41",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,7 +14,6 @@
                      "MoNotificationUx",
                      "RtkAudUService64",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
