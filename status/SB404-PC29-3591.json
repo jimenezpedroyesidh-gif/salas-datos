@@ -1,14 +1,13 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-30 11:10:59",
+    "ultima_vez":  "2026-10-30 11:11:23",
     "arranque":  "2026-10-29 08:22:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
-                     "mobsync",
-                     "MusNotifyIcon"
+                     "jusched"
                  ],
     "apagado":  false
 }
