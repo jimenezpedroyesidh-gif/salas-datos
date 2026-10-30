@@ -1,9 +1,10 @@
 {
     "hostname":  "SB401-PC02-5248",
-    "ultima_vez":  "2026-10-30 09:46:02",
+    "ultima_vez":  "2026-10-30 10:08:27",
     "arranque":  "2026-10-29 10:16:32",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "ai",
                      "aimgr",
