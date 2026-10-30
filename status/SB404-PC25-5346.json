@@ -1,11 +1,12 @@
 {
     "hostname":  "SB404-PC25-5346",
-    "ultima_vez":  "2026-10-30 16:08:46",
+    "ultima_vez":  "2026-10-30 16:21:03",
     "arranque":  "2026-10-30 11:15:34",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
+                     "chrome",
                      "Code",
                      "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
                      "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp",
@@ -14,17 +15,14 @@
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
+                     "EXCEL",
                      "IDBWM",
                      "ipf_helper",
-                     "java",
                      "MicrosoftStartFeedProvider",
-                     "OpenConsole",
-                     "pet",
-                     "powershell",
                      "RtkAudUService64",
                      "ShellHost",
+                     "splwow64",
                      "unsecapp",
-                     "Updates",
                      "WidgetBoard"
                  ],
     "apagado":  false
