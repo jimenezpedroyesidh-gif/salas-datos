@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC17-5338",
-    "ultima_vez":  "2026-10-30 13:31:02",
+    "ultima_vez":  "2026-10-30 16:02:53",
     "arranque":  "2026-10-26 08:08:21",
     "conexion":  "ethernet",
     "procesos":  [
@@ -15,8 +15,11 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
+                     "SoftLandingTask",
+                     "StoreDesktopExtension",
                      "unsecapp",
                      "WidgetBoard"
                  ],
