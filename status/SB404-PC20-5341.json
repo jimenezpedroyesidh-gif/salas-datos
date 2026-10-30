@@ -1,10 +1,15 @@
 {
     "hostname":  "SB404-PC20-5341",
-    "ultima_vez":  "2026-10-30 12:16:36",
+    "ultima_vez":  "2026-10-30 12:34:03",
     "arranque":  "2026-10-27 20:56:04",
     "conexion":  "ethernet",
     "procesos":  [
+                     "AdobeARM",
                      "AdobeCollabSync",
+                     "AppActions",
+                     "Code",
+                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7",
+                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7.tmp",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "Dell.TechHub.Instrumentation.UserProcess",
@@ -13,9 +18,13 @@
                      "jucheck",
                      "jusched",
                      "MoNotificationUx",
+                     "OpenConsole",
+                     "pet",
+                     "powershell",
                      "RtkAudUService64",
                      "ShellHost",
                      "unsecapp",
+                     "Updates",
                      "WavesSvc64"
                  ],
     "apagado":  false
