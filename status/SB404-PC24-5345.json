@@ -1,22 +1,30 @@
 {
     "hostname":  "SB404-PC24-5345",
-    "ultima_vez":  "2026-10-30 16:12:57",
+    "ultima_vez":  "2026-10-30 16:22:48",
     "arranque":  "2026-10-30 16:12:07",
     "conexion":  "ethernet",
     "procesos":  [
+                     "ActionsServer",
+                     "AdobeARM",
                      "AdobeCollabSync",
                      "copilotapp",
                      "copilotapphost",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
-                     "identity_helper",
+                     "Dell.TechHub.Instrumentation.UserProcess",
+                     "firefox",
+                     "IDBWM",
                      "ipf_helper",
+                     "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
+                     "opushutil",
                      "RtkAudUService64",
-                     "SearchProtocolHost",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
