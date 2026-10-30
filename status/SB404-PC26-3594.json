@@ -1,15 +1,13 @@
 {
     "hostname":  "SB404-PC26-3594",
-    "ultima_vez":  "2026-10-30 13:22:02",
+    "ultima_vez":  "2026-10-30 16:19:47",
     "arranque":  "2026-10-26 06:05:04",
     "conexion":  "ethernet",
     "procesos":  [
-                     "Code",
-                     "copilot-runtime",
+                     "chrome",
                      "igfxEM",
                      "igfxHK",
-                     "igfxTray",
-                     "MSOSYNC"
+                     "igfxTray"
                  ],
     "apagado":  false
 }
