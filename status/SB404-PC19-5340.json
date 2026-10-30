@@ -1,12 +1,14 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-30 13:12:03",
+    "ultima_vez":  "2026-10-30 13:32:03",
     "arranque":  "2026-10-28 15:20:57",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "AppActions",
                      "Code",
+                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
+                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp",
                      "copilot-runtime",
                      "CrossDeviceResume",
                      "CrossDeviceService",
