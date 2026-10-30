@@ -1,26 +1,34 @@
 {
     "hostname":  "SB404-PC19-5340",
-    "ultima_vez":  "2026-10-30 12:29:57",
+    "ultima_vez":  "2026-10-30 12:32:03",
     "arranque":  "2026-10-28 15:20:59",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
                      "Code",
+                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7",
+                     "CodeSetup-stable-e646868227c3e3a9e3f24277c8c7220be42c0be7.tmp",
+                     "copilot-runtime",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
                      "ipf_helper",
+                     "jusched",
+                     "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "OpenConsole",
                      "pet",
                      "powershell",
                      "RtkAudUService64",
                      "ShellHost",
+                     "StoreDesktopExtension",
                      "unsecapp",
+                     "Updates",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
