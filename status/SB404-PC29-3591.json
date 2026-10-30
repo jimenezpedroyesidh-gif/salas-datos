@@ -1,23 +1,17 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-30 16:44:03",
+    "ultima_vez":  "2026-10-30 17:04:05",
     "arranque":  "2026-10-29 08:22:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeCollabSync",
-                     "Code",
-                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
-                     "CodeSetup-stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf.tmp",
-                     "copilot-runtime",
+                     "chrome",
+                     "CompPkgSrv",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
                      "jucheck",
-                     "jusched",
-                     "OpenConsole",
-                     "pet",
-                     "pwsh",
-                     "python"
+                     "jusched"
                  ],
     "apagado":  false
 }
