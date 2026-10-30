@@ -1,10 +1,12 @@
 {
     "hostname":  "SB404-PC12-5333",
-    "ultima_vez":  "2026-10-30 08:00:02",
+    "ultima_vez":  "2026-10-30 08:20:04",
     "arranque":  "2026-10-26 08:07:46",
     "conexion":  "ethernet",
     "procesos":  [
-                     "CefSharp.BrowserSubprocess",
+                     "AdobeCollabSync",
+                     "AppActions",
+                     "chrome",
                      "CrossDeviceResume",
                      "CrossDeviceService",
                      "DefenderSessionHelper",
@@ -12,16 +14,11 @@
                      "IDBWM",
                      "ipf_helper",
                      "MicrosoftStartFeedProvider",
+                     "MoNotificationUx",
                      "RtkAudUService64",
-                     "SafeExamBrowser",
-                     "SafeExamBrowser.Client",
                      "ShellHost",
-                     "SoftLandingTask",
-                     "StoreDesktopExtension",
                      "unsecapp",
-                     "WerFault",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
