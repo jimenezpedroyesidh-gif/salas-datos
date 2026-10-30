@@ -1,16 +1,22 @@
 {
     "hostname":  "SB404-PC29-3591",
-    "ultima_vez":  "2026-10-30 12:24:04",
+    "ultima_vez":  "2026-10-30 12:44:04",
     "arranque":  "2026-10-29 08:22:18",
     "conexion":  "ethernet",
     "procesos":  [
                      "AdobeARM",
                      "AdobeCollabSync",
+                     "Code",
+                     "copilot-runtime",
                      "igfxEM",
                      "igfxHK",
                      "igfxTray",
                      "jucheck",
-                     "jusched"
+                     "jusched",
+                     "OpenConsole",
+                     "pet",
+                     "pwsh",
+                     "python"
                  ],
     "apagado":  false
 }
