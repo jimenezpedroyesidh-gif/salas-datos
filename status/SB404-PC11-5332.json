@@ -1,6 +1,6 @@
 {
     "hostname":  "SB404-PC11-5332",
-    "ultima_vez":  "2026-10-31 02:22:22",
+    "ultima_vez":  "2026-10-31 02:38:03",
     "arranque":  "2026-10-27 18:11:23",
     "conexion":  "ethernet",
     "procesos":  [
@@ -14,7 +14,6 @@
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "ForegroundWatcher",
                      "IDBWM",
-                     "identity_helper",
                      "IGCC",
                      "IGCCTray",
                      "ipf_helper",
@@ -23,9 +22,7 @@
                      "MicrosoftStartFeedProvider",
                      "msedge",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
                      "WidgetBoard"
