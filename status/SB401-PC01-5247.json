@@ -1,10 +1,9 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-31 08:24:29",
-    "arranque":  "2026-10-28 14:13:01",
+    "ultima_vez":  "2026-10-31 08:27:03",
+    "arranque":  "2026-10-28 14:13:05",
     "conexion":  "ethernet",
     "procesos":  [
-                     "ADNotificationManager",
                      "AdobeCollabSync",
                      "AppActions",
                      "CrossDeviceResume",
@@ -12,21 +11,16 @@
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
                      "IDBWM",
-                     "identity_helper",
                      "ipf_helper",
                      "M365Copilot",
                      "MicrosoftStartFeedProvider",
                      "MoNotificationUx",
                      "msedge",
-                     "OfficeC2RClient",
-                     "opushutil",
                      "RtkAudUService64",
                      "ShellHost",
-                     "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard",
-                     "WindowsPackageManagerServer"
+                     "WidgetBoard"
                  ],
     "apagado":  false
 }
