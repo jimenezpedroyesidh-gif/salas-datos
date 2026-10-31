@@ -1,20 +1,16 @@
 {
     "hostname":  "SB401-PC01-5247",
-    "ultima_vez":  "2026-10-31 00:14:57",
+    "ultima_vez":  "2026-10-31 08:24:29",
     "arranque":  "2026-10-28 14:13:01",
     "conexion":  "ethernet",
     "procesos":  [
                      "ADNotificationManager",
-                     "AdobeARM",
                      "AdobeCollabSync",
                      "AppActions",
-                     "crashhelper",
                      "CrossDeviceResume",
                      "CrossDeviceService",
-                     "default-browser-agent",
                      "DefenderSessionHelper",
                      "Dell.TechHub.Instrumentation.UserProcess",
-                     "firefox",
                      "IDBWM",
                      "identity_helper",
                      "ipf_helper",
@@ -25,12 +21,12 @@
                      "OfficeC2RClient",
                      "opushutil",
                      "RtkAudUService64",
-                     "SDXHelper",
                      "ShellHost",
                      "StoreDesktopExtension",
                      "unsecapp",
                      "WavesSvc64",
-                     "WidgetBoard"
+                     "WidgetBoard",
+                     "WindowsPackageManagerServer"
                  ],
     "apagado":  false
 }
